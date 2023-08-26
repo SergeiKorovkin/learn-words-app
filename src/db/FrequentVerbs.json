@@ -1,0 +1,2078 @@
+[
+	{
+		"russian": "иметь",
+		"english": "have",
+		"transcript": "-"
+	},
+	{
+		"russian": "делать",
+		"english": "do",
+		"transcript": "-"
+	},
+	{
+		"russian": "говорить",
+		"english": "say",
+		"transcript": "-"
+	},
+	{
+		"russian": "получать",
+		"english": "get",
+		"transcript": "-"
+	},
+	{
+		"russian": "делать, создавать",
+		"english": "make",
+		"transcript": "-"
+	},
+	{
+		"russian": "идти, ехать",
+		"english": "go",
+		"transcript": "-"
+	},
+	{
+		"russian": "знать",
+		"english": "know",
+		"transcript": "-"
+	},
+	{
+		"russian": "брать",
+		"english": "take",
+		"transcript": "-"
+	},
+	{
+		"russian": "видеть",
+		"english": "see",
+		"transcript": "-"
+	},
+	{
+		"russian": "приходить",
+		"english": "come",
+		"transcript": "-"
+	},
+	{
+		"russian": "думать",
+		"english": "think",
+		"transcript": "-"
+	},
+	{
+		"russian": "смотреть",
+		"english": "look",
+		"transcript": "-"
+	},
+	{
+		"russian": "хотеть",
+		"english": "want",
+		"transcript": "-"
+	},
+	{
+		"russian": "давать",
+		"english": "give",
+		"transcript": "-"
+	},
+	{
+		"russian": "использовать",
+		"english": "use",
+		"transcript": "-"
+	},
+	{
+		"russian": "находить",
+		"english": "find",
+		"transcript": "-"
+	},
+	{
+		"russian": "рассказывать",
+		"english": "tell",
+		"transcript": "-"
+	},
+	{
+		"russian": "спрашивать",
+		"english": "ask",
+		"transcript": "-"
+	},
+	{
+		"russian": "работать",
+		"english": "work",
+		"transcript": "-"
+	},
+	{
+		"russian": "нравиться",
+		"english": "like",
+		"transcript": "-"
+	},
+	{
+		"russian": "звонить",
+		"english": "call",
+		"transcript": "-"
+	},
+	{
+		"russian": "пытаться",
+		"english": "try",
+		"transcript": "-"
+	},
+	{
+		"russian": "нуждаться",
+		"english": "need",
+		"transcript": "-"
+	},
+	{
+		"russian": "чувствовать",
+		"english": "feel",
+		"transcript": "-"
+	},
+	{
+		"russian": "становиться",
+		"english": "become",
+		"transcript": "-"
+	},
+	{
+		"russian": "уходить",
+		"english": "leave",
+		"transcript": "-"
+	},
+	{
+		"russian": "класть",
+		"english": "put",
+		"transcript": "-"
+	},
+	{
+		"russian": "значить",
+		"english": "mean",
+		"transcript": "-"
+	},
+	{
+		"russian": "хранить, продолжать",
+		"english": "keep",
+		"transcript": "-"
+	},
+	{
+		"russian": "позволять",
+		"english": "let",
+		"transcript": "-"
+	},
+	{
+		"russian": "начинать",
+		"english": "begin",
+		"transcript": "-"
+	},
+	{
+		"russian": "казаться",
+		"english": "seem",
+		"transcript": "-"
+	},
+	{
+		"russian": "помогать",
+		"english": "help",
+		"transcript": "-"
+	},
+	{
+		"russian": "говорить",
+		"english": "talk",
+		"transcript": "-"
+	},
+	{
+		"russian": "поворачивать",
+		"english": "turn",
+		"transcript": "-"
+	},
+	{
+		"russian": "начинать",
+		"english": "start",
+		"transcript": "-"
+	},
+	{
+		"russian": "показывать",
+		"english": "show",
+		"transcript": "-"
+	},
+	{
+		"russian": "слышать",
+		"english": "hear",
+		"transcript": "-"
+	},
+	{
+		"russian": "играть",
+		"english": "play",
+		"transcript": "-"
+	},
+	{
+		"russian": "бежать",
+		"english": "run",
+		"transcript": "-"
+	},
+	{
+		"russian": "двигаться",
+		"english": "move",
+		"transcript": "-"
+	},
+	{
+		"russian": "жить",
+		"english": "live",
+		"transcript": "-"
+	},
+	{
+		"russian": "верить",
+		"english": "believe",
+		"transcript": "-"
+	},
+	{
+		"russian": "держать",
+		"english": "hold",
+		"transcript": "-"
+	},
+	{
+		"russian": "приносить",
+		"english": "bring",
+		"transcript": "-"
+	},
+	{
+		"russian": "происходить",
+		"english": "happen",
+		"transcript": "-"
+	},
+	{
+		"russian": "писать",
+		"english": "write",
+		"transcript": "-"
+	},
+	{
+		"russian": "предоставлять",
+		"english": "provide",
+		"transcript": "-"
+	},
+	{
+		"russian": "сидеть",
+		"english": "sit",
+		"transcript": "-"
+	},
+	{
+		"russian": "стоять",
+		"english": "stand",
+		"transcript": "-"
+	},
+	{
+		"russian": "терять",
+		"english": "lose",
+		"transcript": "-"
+	},
+	{
+		"russian": "платить",
+		"english": "pay",
+		"transcript": "-"
+	},
+	{
+		"russian": "встречать",
+		"english": "meet",
+		"transcript": "-"
+	},
+	{
+		"russian": "включать",
+		"english": "include",
+		"transcript": "-"
+	},
+	{
+		"russian": "продолжать",
+		"english": "continue",
+		"transcript": "-"
+	},
+	{
+		"russian": "устанавливать",
+		"english": "set",
+		"transcript": "-"
+	},
+	{
+		"russian": "учиться",
+		"english": "learn",
+		"transcript": "-"
+	},
+	{
+		"russian": "менять",
+		"english": "change",
+		"transcript": "-"
+	},
+	{
+		"russian": "вести",
+		"english": "lead",
+		"transcript": "-"
+	},
+	{
+		"russian": "понимать",
+		"english": "understand",
+		"transcript": "-"
+	},
+	{
+		"russian": "смотреть",
+		"english": "watch",
+		"transcript": "-"
+	},
+	{
+		"russian": "следовать",
+		"english": "follow",
+		"transcript": "-"
+	},
+	{
+		"russian": "останавливать",
+		"english": "stop",
+		"transcript": "-"
+	},
+	{
+		"russian": "создавать",
+		"english": "create",
+		"transcript": "-"
+	},
+	{
+		"russian": "говорить",
+		"english": "speak",
+		"transcript": "-"
+	},
+	{
+		"russian": "читать",
+		"english": "read",
+		"transcript": "-"
+	},
+	{
+		"russian": "разрешать",
+		"english": "allow",
+		"transcript": "-"
+	},
+	{
+		"russian": "добавлять",
+		"english": "add",
+		"transcript": "-"
+	},
+	{
+		"russian": "тратить",
+		"english": "spend",
+		"transcript": "-"
+	},
+	{
+		"russian": "расти",
+		"english": "grow",
+		"transcript": "-"
+	},
+	{
+		"russian": "открывать",
+		"english": "open",
+		"transcript": "-"
+	},
+	{
+		"russian": "ходить",
+		"english": "walk",
+		"transcript": "-"
+	},
+	{
+		"russian": "выигрывать",
+		"english": "win",
+		"transcript": "-"
+	},
+	{
+		"russian": "предлагать",
+		"english": "offer",
+		"transcript": "-"
+	},
+	{
+		"russian": "помнить",
+		"english": "remember",
+		"transcript": "-"
+	},
+	{
+		"russian": "любить",
+		"english": "love",
+		"transcript": "-"
+	},
+	{
+		"russian": "рассматривать",
+		"english": "consider",
+		"transcript": "-"
+	},
+	{
+		"russian": "появляться",
+		"english": "appear",
+		"transcript": "-"
+	},
+	{
+		"russian": "покупать",
+		"english": "buy",
+		"transcript": "-"
+	},
+	{
+		"russian": "ждать",
+		"english": "wait",
+		"transcript": "-"
+	},
+	{
+		"russian": "служить",
+		"english": "serve",
+		"transcript": "-"
+	},
+	{
+		"russian": "умирать",
+		"english": "die",
+		"transcript": "-"
+	},
+	{
+		"russian": "отправлять",
+		"english": "send",
+		"transcript": "-"
+	},
+	{
+		"russian": "ожидать",
+		"english": "expect",
+		"transcript": "-"
+	},
+	{
+		"russian": "строить",
+		"english": "build",
+		"transcript": "-"
+	},
+	{
+		"russian": "оставаться",
+		"english": "stay",
+		"transcript": "-"
+	},
+	{
+		"russian": "падать",
+		"english": "fall",
+		"transcript": "-"
+	},
+	{
+		"russian": "резать",
+		"english": "cut",
+		"transcript": "-"
+	},
+	{
+		"russian": "достигать",
+		"english": "reach",
+		"transcript": "-"
+	},
+	{
+		"russian": "убивать",
+		"english": "kill",
+		"transcript": "-"
+	},
+	{
+		"russian": "оставаться",
+		"english": "remain",
+		"transcript": "-"
+	},
+	{
+		"russian": "продавать",
+		"english": "sell",
+		"transcript": "-"
+	},
+	{
+		"russian": "возвращать(ся)",
+		"english": "return",
+		"transcript": "-"
+	},
+	{
+		"russian": "ломать",
+		"english": "break",
+		"transcript": "-"
+	},
+	{
+		"russian": "поддерживать",
+		"english": "support",
+		"transcript": "-"
+	},
+	{
+		"russian": "описывать",
+		"english": "describe",
+		"transcript": "-"
+	},
+	{
+		"russian": "производить",
+		"english": "produce",
+		"transcript": "-"
+	},
+	{
+		"russian": "изучать",
+		"english": "study",
+		"transcript": "-"
+	},
+	{
+		"russian": "покрывать",
+		"english": "cover",
+		"transcript": "-"
+	},
+	{
+		"russian": "развивать",
+		"english": "develop",
+		"transcript": "-"
+	},
+	{
+		"russian": "решать",
+		"english": "decide",
+		"transcript": "-"
+	},
+	{
+		"russian": "сообщать, докладывать",
+		"english": "report",
+		"transcript": "-"
+	},
+	{
+		"russian": "водить (авто)",
+		"english": "drive",
+		"transcript": "-"
+	},
+	{
+		"russian": "носить (одежду)",
+		"english": "wear",
+		"transcript": "-"
+	},
+	{
+		"russian": "подниматься",
+		"english": "rise",
+		"transcript": "-"
+	},
+	{
+		"russian": "обнаруживать",
+		"english": "discover",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивляться, интересоваться",
+		"english": "wonder",
+		"transcript": "-"
+	},
+	{
+		"russian": "требовать",
+		"english": "require",
+		"transcript": "-"
+	},
+	{
+		"russian": "базировать",
+		"english": "base",
+		"transcript": "-"
+	},
+	{
+		"russian": "предотвращать",
+		"english": "prevent",
+		"transcript": "-"
+	},
+	{
+		"russian": "завершать",
+		"english": "finish",
+		"transcript": "-"
+	},
+	{
+		"russian": "приводить",
+		"english": "result",
+		"transcript": "-"
+	},
+	{
+		"russian": "ударять",
+		"english": "hit",
+		"transcript": "-"
+	},
+	{
+		"russian": "влиять",
+		"english": "affect",
+		"transcript": "-"
+	},
+	{
+		"russian": "включать, затрагивать",
+		"english": "involve",
+		"transcript": "-"
+	},
+	{
+		"russian": "трогать",
+		"english": "touch",
+		"transcript": "-"
+	},
+	{
+		"russian": "намереваться",
+		"english": "intend",
+		"transcript": "-"
+	},
+	{
+		"russian": "относиться",
+		"english": "relate",
+		"transcript": "-"
+	},
+	{
+		"russian": "проходить, передавать",
+		"english": "pass",
+		"transcript": "-"
+	},
+	{
+		"russian": "поощрять",
+		"english": "encourage",
+		"transcript": "-"
+	},
+	{
+		"russian": "вызывать",
+		"english": "cause",
+		"transcript": "-"
+	},
+	{
+		"russian": "определять",
+		"english": "define",
+		"transcript": "-"
+	},
+	{
+		"russian": "представлять",
+		"english": "present",
+		"transcript": "-"
+	},
+	{
+		"russian": "лечить, обращаться",
+		"english": "treat",
+		"transcript": "-"
+	},
+	{
+		"russian": "узнавать",
+		"english": "recognize",
+		"transcript": "-"
+	},
+	{
+		"russian": "осознавать",
+		"english": "realize",
+		"transcript": "-"
+	},
+	{
+		"russian": "обсуждать",
+		"english": "discuss",
+		"transcript": "-"
+	},
+	{
+		"russian": "получать",
+		"english": "obtain",
+		"transcript": "-"
+	},
+	{
+		"russian": "отмечать, замечать",
+		"english": "note",
+		"transcript": "-"
+	},
+	{
+		"russian": "указывать",
+		"english": "indicate",
+		"transcript": "-"
+	},
+	{
+		"russian": "признавать",
+		"english": "recognize",
+		"transcript": "-"
+	},
+	{
+		"russian": "бороться, драться",
+		"english": "fight",
+		"transcript": "-"
+	},
+	{
+		"russian": "надеяться",
+		"english": "hope",
+		"transcript": "-"
+	},
+	{
+		"russian": "спасать, экономить",
+		"english": "save",
+		"transcript": "-"
+	},
+	{
+		"russian": "уменьшать",
+		"english": "reduce",
+		"transcript": "-"
+	},
+	{
+		"russian": "удалять",
+		"english": "remove",
+		"transcript": "-"
+	},
+	{
+		"russian": "поддерживать",
+		"english": "maintain",
+		"transcript": "-"
+	},
+	{
+		"russian": "определять",
+		"english": "determine",
+		"transcript": "-"
+	},
+	{
+		"russian": "доказывать",
+		"english": "prove",
+		"transcript": "-"
+	},
+	{
+		"russian": "выполнять",
+		"english": "perform",
+		"transcript": "-"
+	},
+	{
+		"russian": "искать",
+		"english": "seek",
+		"transcript": "-"
+	},
+	{
+		"russian": "готовить",
+		"english": "prepare",
+		"transcript": "-"
+	},
+	{
+		"russian": "упоминать",
+		"english": "mention",
+		"transcript": "-"
+	},
+	{
+		"russian": "отражать",
+		"english": "reflect",
+		"transcript": "-"
+	},
+	{
+		"russian": "воспринимать",
+		"english": "perceive",
+		"transcript": "-"
+	},
+	{
+		"russian": "достигать",
+		"english": "achieve",
+		"transcript": "-"
+	},
+	{
+		"russian": "предполагать",
+		"english": "assume",
+		"transcript": "-"
+	},
+	{
+		"russian": "предлагать",
+		"english": "suggest",
+		"transcript": "-"
+	},
+	{
+		"russian": "заменять",
+		"english": "replace",
+		"transcript": "-"
+	},
+	{
+		"russian": "выражать",
+		"english": "express",
+		"transcript": "-"
+	},
+	{
+		"russian": "применять",
+		"english": "apply",
+		"transcript": "-"
+	},
+	{
+		"russian": "спорить",
+		"english": "argue",
+		"transcript": "-"
+	},
+	{
+		"russian": "тянуть",
+		"english": "pull",
+		"transcript": "-"
+	},
+	{
+		"russian": "предсказывать",
+		"english": "predict",
+		"transcript": "-"
+	},
+	{
+		"russian": "рассматривать, проверять",
+		"english": "examine",
+		"transcript": "-"
+	},
+	{
+		"russian": "иметь тенденцию",
+		"english": "tend",
+		"transcript": "-"
+	},
+	{
+		"russian": "закрывать",
+		"english": "shut",
+		"transcript": "-"
+	},
+	{
+		"russian": "требовать, утверждать",
+		"english": "claim",
+		"transcript": "-"
+	},
+	{
+		"russian": "распространять",
+		"english": "spread",
+		"transcript": "-"
+	},
+	{
+		"russian": "устанавливать",
+		"english": "establish",
+		"transcript": "-"
+	},
+	{
+		"russian": "присоединяться",
+		"english": "join",
+		"transcript": "-"
+	},
+	{
+		"russian": "носить, выносить",
+		"english": "bear",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивляться, задаваться вопросом",
+		"english": "wonder",
+		"transcript": "-"
+	},
+	{
+		"russian": "желать",
+		"english": "wish",
+		"transcript": "-"
+	},
+	{
+		"russian": "требовать",
+		"english": "demand",
+		"transcript": "-"
+	},
+	{
+		"russian": "быть должным",
+		"english": "owe",
+		"transcript": "-"
+	},
+	{
+		"russian": "принимать",
+		"english": "accept",
+		"transcript": "-"
+	},
+	{
+		"russian": "зависеть",
+		"english": "depend",
+		"transcript": "-"
+	},
+	{
+		"russian": "поднимать",
+		"english": "raise",
+		"transcript": "-"
+	},
+	{
+		"russian": "страдать",
+		"english": "suffer",
+		"transcript": "-"
+	},
+	{
+		"russian": "раскрывать",
+		"english": "reveal",
+		"transcript": "-"
+	},
+	{
+		"russian": "существовать",
+		"english": "exist",
+		"transcript": "-"
+	},
+	{
+		"russian": "отказываться",
+		"english": "refuse",
+		"transcript": "-"
+	},
+	{
+		"russian": "наблюдать, смотреть",
+		"english": "watch",
+		"transcript": "-"
+	},
+	{
+		"russian": "запускать",
+		"english": "launch",
+		"transcript": "-"
+	},
+	{
+		"russian": "отмечать",
+		"english": "mark",
+		"transcript": "-"
+	},
+	{
+		"russian": "принадлежать",
+		"english": "belong",
+		"transcript": "-"
+	},
+	{
+		"russian": "отрицать",
+		"english": "deny",
+		"transcript": "-"
+	},
+	{
+		"russian": "отвергать",
+		"english": "reject",
+		"transcript": "-"
+	},
+	{
+		"russian": "позволить себе",
+		"english": "afford",
+		"transcript": "-"
+	},
+	{
+		"russian": "голосовать",
+		"english": "vote",
+		"transcript": "-"
+	},
+	{
+		"russian": "подтверждать",
+		"english": "confirm",
+		"transcript": "-"
+	},
+	{
+		"russian": "признавать",
+		"english": "admit",
+		"transcript": "-"
+	},
+	{
+		"russian": "предупреждать",
+		"english": "warn",
+		"transcript": "-"
+	},
+	{
+		"russian": "служить, обслуживать",
+		"english": "serve",
+		"transcript": "-"
+	},
+	{
+		"russian": "терпеть неудачу",
+		"english": "fail",
+		"transcript": "-"
+	},
+	{
+		"russian": "улучшать",
+		"english": "improve",
+		"transcript": "-"
+	},
+	{
+		"russian": "возражать",
+		"english": "mind",
+		"transcript": "-"
+	},
+	{
+		"russian": "реагировать",
+		"english": "react",
+		"transcript": "-"
+	},
+	{
+		"russian": "продолжаться",
+		"english": "last",
+		"transcript": "-"
+	},
+	{
+		"russian": "падать, ронять",
+		"english": "drop",
+		"transcript": "-"
+	},
+	{
+		"russian": "толкать",
+		"english": "push",
+		"transcript": "-"
+	},
+	{
+		"russian": "убегать, избегать",
+		"english": "escape",
+		"transcript": "-"
+	},
+	{
+		"russian": "класть",
+		"english": "lay",
+		"transcript": "-"
+	},
+	{
+		"russian": "предлагать",
+		"english": "propose",
+		"transcript": "-"
+	},
+	{
+		"russian": "отвечать",
+		"english": "respond",
+		"transcript": "-"
+	},
+	{
+		"russian": "устраивать",
+		"english": "arrange",
+		"transcript": "-"
+	},
+	{
+		"russian": "выживать",
+		"english": "survive",
+		"transcript": "-"
+	},
+	{
+		"russian": "посещать",
+		"english": "attend",
+		"transcript": "-"
+	},
+	{
+		"russian": "настаивать",
+		"english": "insist",
+		"transcript": "-"
+	},
+	{
+		"russian": "представлять",
+		"english": "introduce",
+		"transcript": "-"
+	},
+	{
+		"russian": "получать",
+		"english": "receive",
+		"transcript": "-"
+	},
+	{
+		"russian": "достигать",
+		"english": "obtain",
+		"transcript": "-"
+	},
+	{
+		"russian": "замечать",
+		"english": "notice",
+		"transcript": "-"
+	},
+	{
+		"russian": "желать",
+		"english": "desire",
+		"transcript": "-"
+	},
+	{
+		"russian": "привлекать",
+		"english": "attract",
+		"transcript": "-"
+	},
+	{
+		"russian": "предпочитать",
+		"english": "prefer",
+		"transcript": "-"
+	},
+	{
+		"russian": "сравнивать",
+		"english": "compare",
+		"transcript": "-"
+	},
+	{
+		"russian": "содержать",
+		"english": "contain",
+		"transcript": "-"
+	},
+	{
+		"russian": "представлять",
+		"english": "represent",
+		"transcript": "-"
+	},
+	{
+		"russian": "воображать",
+		"english": "imagine",
+		"transcript": "-"
+	},
+	{
+		"russian": "справляться",
+		"english": "cope",
+		"transcript": "-"
+	},
+	{
+		"russian": "убеждать",
+		"english": "convince",
+		"transcript": "-"
+	},
+	{
+		"russian": "пропускать, скучать",
+		"english": "miss",
+		"transcript": "-"
+	},
+	{
+		"russian": "позволить",
+		"english": "afford",
+		"transcript": "-"
+	},
+	{
+		"russian": "происходить",
+		"english": "occur",
+		"transcript": "-"
+	},
+	{
+		"russian": "сожалеть",
+		"english": "regret",
+		"transcript": "-"
+	},
+	{
+		"russian": "производить впечатление",
+		"english": "impress",
+		"transcript": "-"
+	},
+	{
+		"russian": "жаловаться",
+		"english": "complain",
+		"transcript": "-"
+	},
+	{
+		"russian": "полагаться",
+		"english": "rely",
+		"transcript": "-"
+	},
+	{
+		"russian": "позволять",
+		"english": "enable",
+		"transcript": "-"
+	},
+	{
+		"russian": "ставить",
+		"english": "bet",
+		"transcript": "-"
+	},
+	{
+		"russian": "рисковать",
+		"english": "risk",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивляться",
+		"english": "wonder",
+		"transcript": "-"
+	},
+	{
+		"russian": "вызывать, бросать вызов",
+		"english": "challenge",
+		"transcript": "-"
+	},
+	{
+		"russian": "формировать",
+		"english": "form",
+		"transcript": "-"
+	},
+	{
+		"russian": "причинять боль, болеть",
+		"english": "hurt",
+		"transcript": "-"
+	},
+	{
+		"russian": "идентифицировать",
+		"english": "identify",
+		"transcript": "-"
+	},
+	{
+		"russian": "приклеивать, прилипать",
+		"english": "stick",
+		"transcript": "-"
+	},
+	{
+		"russian": "утверждать, претендовать",
+		"english": "claim",
+		"transcript": "-"
+	},
+	{
+		"russian": "избегать",
+		"english": "avoid",
+		"transcript": "-"
+	},
+	{
+		"russian": "заботиться",
+		"english": "care",
+		"transcript": "-"
+	},
+	{
+		"russian": "звучать",
+		"english": "sound",
+		"transcript": "-"
+	},
+	{
+		"russian": "отвечать",
+		"english": "answer",
+		"transcript": "-"
+	},
+	{
+		"russian": "иметь дело, распределять",
+		"english": "deal",
+		"transcript": "-"
+	},
+	{
+		"russian": "аргументировать, спорить",
+		"english": "argue",
+		"transcript": "-"
+	},
+	{
+		"russian": "ловить",
+		"english": "catch",
+		"transcript": "-"
+	},
+	{
+		"russian": "бросать",
+		"english": "throw",
+		"transcript": "-"
+	},
+	{
+		"russian": "завершать",
+		"english": "complete",
+		"transcript": "-"
+	},
+	{
+		"russian": "способствовать",
+		"english": "contribute",
+		"transcript": "-"
+	},
+	{
+		"russian": "выпускать",
+		"english": "issue",
+		"transcript": "-"
+	},
+	{
+		"russian": "подходить",
+		"english": "approach",
+		"transcript": "-"
+	},
+	{
+		"russian": "думать, решать",
+		"english": "figure",
+		"transcript": "-"
+	},
+	{
+		"russian": "отмечать",
+		"english": "note",
+		"transcript": "-"
+	},
+	{
+		"russian": "измерять",
+		"english": "measure",
+		"transcript": "-"
+	},
+	{
+		"russian": "определить",
+		"english": "determine",
+		"transcript": "-"
+	},
+	{
+		"russian": "касаться",
+		"english": "concern",
+		"transcript": "-"
+	},
+	{
+		"russian": "объявлять",
+		"english": "declare",
+		"transcript": "-"
+	},
+	{
+		"russian": "перечислять",
+		"english": "list",
+		"transcript": "-"
+	},
+	{
+		"russian": "утверждать",
+		"english": "state",
+		"transcript": "-"
+	},
+	{
+		"russian": "гарантировать",
+		"english": "ensure",
+		"transcript": "-"
+	},
+	{
+		"russian": "вовлекать",
+		"english": "involve",
+		"transcript": "-"
+	},
+	{
+		"russian": "признавать, кредитовать",
+		"english": "credit",
+		"transcript": "-"
+	},
+	{
+		"russian": "обращаться",
+		"english": "appeal",
+		"transcript": "-"
+	},
+	{
+		"russian": "изменяться",
+		"english": "vary",
+		"transcript": "-"
+	},
+	{
+		"russian": "генерировать, создавать",
+		"english": "generate",
+		"transcript": "-"
+	},
+	{
+		"russian": "наблюдать",
+		"english": "observe",
+		"transcript": "-"
+	},
+	{
+		"russian": "участвовать",
+		"english": "participate",
+		"transcript": "-"
+	},
+	{
+		"russian": "связывать",
+		"english": "link",
+		"transcript": "-"
+	},
+	{
+		"russian": "выбирать",
+		"english": "choose",
+		"transcript": "-"
+	},
+	{
+		"russian": "связывать, относиться",
+		"english": "relate",
+		"transcript": "-"
+	},
+	{
+		"russian": "воздействовать, влиять",
+		"english": "affect",
+		"transcript": "-"
+	},
+	{
+		"russian": "расследовать",
+		"english": "investigate",
+		"transcript": "-"
+	},
+	{
+		"russian": "совершать, обязывать",
+		"english": "commit",
+		"transcript": "-"
+	},
+	{
+		"russian": "анализировать",
+		"english": "analyze",
+		"transcript": "-"
+	},
+	{
+		"russian": "строить, конструировать",
+		"english": "construct",
+		"transcript": "-"
+	},
+	{
+		"russian": "определять",
+		"english": "identify",
+		"transcript": "-"
+	},
+	{
+		"russian": "выводить, извлекать",
+		"english": "derive",
+		"transcript": "-"
+	},
+	{
+		"russian": "интегрировать",
+		"english": "integrate",
+		"transcript": "-"
+	},
+	{
+		"russian": "противопоставлять",
+		"english": "contrast",
+		"transcript": "-"
+	},
+	{
+		"russian": "приобретать",
+		"english": "acquire",
+		"transcript": "-"
+	},
+	{
+		"russian": "оценивать",
+		"english": "evaluate",
+		"transcript": "-"
+	},
+	{
+		"russian": "привлекать, заниматься",
+		"english": "engage",
+		"transcript": "-"
+	},
+	{
+		"russian": "передавать",
+		"english": "transfer",
+		"transcript": "-"
+	},
+	{
+		"russian": "доступ, обращаться",
+		"english": "access",
+		"transcript": "-"
+	},
+	{
+		"russian": "общаться",
+		"english": "communicate",
+		"transcript": "-"
+	},
+	{
+		"russian": "продвигать",
+		"english": "promote",
+		"transcript": "-"
+	},
+	{
+		"russian": "назначать",
+		"english": "assign",
+		"transcript": "-"
+	},
+	{
+		"russian": "демонстрировать",
+		"english": "demonstrate",
+		"transcript": "-"
+	},
+	{
+		"russian": "взаимодействовать",
+		"english": "interact",
+		"transcript": "-"
+	},
+	{
+		"russian": "адаптировать",
+		"english": "adapt",
+		"transcript": "-"
+	},
+	{
+		"russian": "реализовывать",
+		"english": "implement",
+		"transcript": "-"
+	},
+	{
+		"russian": "подчеркивать",
+		"english": "emphasize",
+		"transcript": "-"
+	},
+	{
+		"russian": "включать",
+		"english": "incorporate",
+		"transcript": "-"
+	},
+	{
+		"russian": "решать",
+		"english": "resolve",
+		"transcript": "-"
+	},
+	{
+		"russian": "преобразовывать",
+		"english": "transform",
+		"transcript": "-"
+	},
+	{
+		"russian": "демонстрировать",
+		"english": "display",
+		"transcript": "-"
+	},
+	{
+		"russian": "подразумевать",
+		"english": "imply",
+		"transcript": "-"
+	},
+	{
+		"russian": "функционировать",
+		"english": "function",
+		"transcript": "-"
+	},
+	{
+		"russian": "различаться",
+		"english": "vary",
+		"transcript": "-"
+	},
+	{
+		"russian": "различать",
+		"english": "distinguish",
+		"transcript": "-"
+	},
+	{
+		"russian": "иллюстрировать",
+		"english": "illustrate",
+		"transcript": "-"
+	},
+	{
+		"russian": "выбирать",
+		"english": "select",
+		"transcript": "-"
+	},
+	{
+		"russian": "компенсировать",
+		"english": "compensate",
+		"transcript": "-"
+	},
+	{
+		"russian": "восстанавливаться",
+		"english": "recover",
+		"transcript": "-"
+	},
+	{
+		"russian": "облегчать",
+		"english": "facilitate",
+		"transcript": "-"
+	},
+	{
+		"russian": "восстанавливать",
+		"english": "restore",
+		"transcript": "-"
+	},
+	{
+		"russian": "распределять",
+		"english": "distribute",
+		"transcript": "-"
+	},
+	{
+		"russian": "гарантировать",
+		"english": "guarantee",
+		"transcript": "-"
+	},
+	{
+		"russian": "оценивать",
+		"english": "estimate",
+		"transcript": "-"
+	},
+	{
+		"russian": "изымать, отзывать",
+		"english": "withdraw",
+		"transcript": "-"
+	},
+	{
+		"russian": "рекомендовать",
+		"english": "recommend",
+		"transcript": "-"
+	},
+	{
+		"russian": "признавать",
+		"english": "acknowledge",
+		"transcript": "-"
+	},
+	{
+		"russian": "усиливать",
+		"english": "reinforce",
+		"transcript": "-"
+	},
+	{
+		"russian": "выделять",
+		"english": "highlight",
+		"transcript": "-"
+	},
+	{
+		"russian": "модифицировать",
+		"english": "modify",
+		"transcript": "-"
+	},
+	{
+		"russian": "различать",
+		"english": "differentiate",
+		"transcript": "-"
+	},
+	{
+		"russian": "устранять",
+		"english": "eliminate",
+		"transcript": "-"
+	},
+	{
+		"russian": "обратить, реверсировать",
+		"english": "reverse",
+		"transcript": "-"
+	},
+	{
+		"russian": "мониторить, следить",
+		"english": "monitor",
+		"transcript": "-"
+	},
+	{
+		"russian": "бросать вызов",
+		"english": "challenge",
+		"transcript": "-"
+	},
+	{
+		"russian": "прослеживать",
+		"english": "trace",
+		"transcript": "-"
+	},
+	{
+		"russian": "эксплуатировать",
+		"english": "exploit",
+		"transcript": "-"
+	},
+	{
+		"russian": "заключать",
+		"english": "conclude",
+		"transcript": "-"
+	},
+	{
+		"russian": "оправдывать",
+		"english": "justify",
+		"transcript": "-"
+	},
+	{
+		"russian": "доминировать",
+		"english": "dominate",
+		"transcript": "-"
+	},
+	{
+		"russian": "сдвигать",
+		"english": "shift",
+		"transcript": "-"
+	},
+	{
+		"russian": "принуждать",
+		"english": "enforce",
+		"transcript": "-"
+	},
+	{
+		"russian": "захватывать",
+		"english": "capture",
+		"transcript": "-"
+	},
+	{
+		"russian": "распределять",
+		"english": "allocate",
+		"transcript": "-"
+	},
+	{
+		"russian": "улучшать",
+		"english": "enhance",
+		"transcript": "-"
+	},
+	{
+		"russian": "нарушать",
+		"english": "violate",
+		"transcript": "-"
+	},
+	{
+		"russian": "нацеливаться",
+		"english": "target",
+		"transcript": "-"
+	},
+	{
+		"russian": "подвергаться",
+		"english": "undergo",
+		"transcript": "-"
+	},
+	{
+		"russian": "внедрять",
+		"english": "implement",
+		"transcript": "-"
+	},
+	{
+		"russian": "уменьшать",
+		"english": "diminish",
+		"transcript": "-"
+	},
+	{
+		"russian": "предоставлять",
+		"english": "grant",
+		"transcript": "-"
+	},
+	{
+		"russian": "преобладать",
+		"english": "prevail",
+		"transcript": "-"
+	},
+	{
+		"russian": "исключать",
+		"english": "exclude",
+		"transcript": "-"
+	},
+	{
+		"russian": "накапливать",
+		"english": "accumulate",
+		"transcript": "-"
+	},
+	{
+		"russian": "совпадать",
+		"english": "coincide",
+		"transcript": "-"
+	},
+	{
+		"russian": "сталкиваться",
+		"english": "encounter",
+		"transcript": "-"
+	},
+	{
+		"russian": "собирать",
+		"english": "assemble",
+		"transcript": "-"
+	},
+	{
+		"russian": "уточнять",
+		"english": "clarify",
+		"transcript": "-"
+	},
+	{
+		"russian": "рушиться, коллапсировать",
+		"english": "collapse",
+		"transcript": "-"
+	},
+	{
+		"russian": "прекращать",
+		"english": "cease",
+		"transcript": "-"
+	},
+	{
+		"russian": "начинать",
+		"english": "commence",
+		"transcript": "-"
+	},
+	{
+		"russian": "делегировать",
+		"english": "delegate",
+		"transcript": "-"
+	},
+	{
+		"russian": "располагать",
+		"english": "dispose",
+		"transcript": "-"
+	},
+	{
+		"russian": "искажать",
+		"english": "distort",
+		"transcript": "-"
+	},
+	{
+		"russian": "колебаться",
+		"english": "fluctuate",
+		"transcript": "-"
+	},
+	{
+		"russian": "ингибировать, подавлять",
+		"english": "inhibit",
+		"transcript": "-"
+	},
+	{
+		"russian": "вмешиваться",
+		"english": "intervene",
+		"transcript": "-"
+	},
+	{
+		"russian": "максимизировать",
+		"english": "maximize",
+		"transcript": "-"
+	},
+	{
+		"russian": "нейтрализовать",
+		"english": "neutralize",
+		"transcript": "-"
+	},
+	{
+		"russian": "перекрывать",
+		"english": "overlap",
+		"transcript": "-"
+	},
+	{
+		"russian": "упорствовать",
+		"english": "persist",
+		"transcript": "-"
+	},
+	{
+		"russian": "обратный",
+		"english": "reverse",
+		"transcript": "-"
+	},
+	{
+		"russian": "завершать",
+		"english": "terminate",
+		"transcript": "-"
+	},
+	{
+		"russian": "оживлять",
+		"english": "revive",
+		"transcript": "-"
+	},
+	{
+		"russian": "стекать, осушать",
+		"english": "drain",
+		"transcript": "-"
+	},
+	{
+		"russian": "плавать",
+		"english": "float",
+		"transcript": "-"
+	},
+	{
+		"russian": "включать, заткнуть",
+		"english": "plug",
+		"transcript": "-"
+	},
+	{
+		"russian": "обучать",
+		"english": "educate",
+		"transcript": "-"
+	},
+	{
+		"russian": "гнуть",
+		"english": "bend",
+		"transcript": "-"
+	},
+	{
+		"russian": "благословлять",
+		"english": "bless",
+		"transcript": "-"
+	},
+	{
+		"russian": "заваривать",
+		"english": "brew",
+		"transcript": "-"
+	},
+	{
+		"russian": "жевать",
+		"english": "chew",
+		"transcript": "-"
+	},
+	{
+		"russian": "моргать",
+		"english": "blink",
+		"transcript": "-"
+	},
+	{
+		"russian": "краснеть",
+		"english": "blush",
+		"transcript": "-"
+	},
+	{
+		"russian": "кипятить",
+		"english": "boil",
+		"transcript": "-"
+	},
+	{
+		"russian": "хлопать",
+		"english": "clap",
+		"transcript": "-"
+	},
+	{
+		"russian": "классифицировать",
+		"english": "classify",
+		"transcript": "-"
+	},
+	{
+		"russian": "кашлять",
+		"english": "cough",
+		"transcript": "-"
+	},
+	{
+		"russian": "осмеливаться",
+		"english": "dare",
+		"transcript": "-"
+	},
+	{
+		"russian": "восхищаться",
+		"english": "delight",
+		"transcript": "-"
+	},
+	{
+		"russian": "копать",
+		"english": "dig",
+		"transcript": "-"
+	},
+	{
+		"russian": "сомневаться",
+		"english": "doubt",
+		"transcript": "-"
+	},
+	{
+		"russian": "тащить",
+		"english": "drag",
+		"transcript": "-"
+	},
+	{
+		"russian": "мечтать",
+		"english": "dream",
+		"transcript": "-"
+	},
+	{
+		"russian": "капать",
+		"english": "drip",
+		"transcript": "-"
+	},
+	{
+		"russian": "вытирать пыль",
+		"english": "dust",
+		"transcript": "-"
+	},
+	{
+		"russian": "смущать",
+		"english": "embarrass",
+		"transcript": "-"
+	},
+	{
+		"russian": "угасать",
+		"english": "fade",
+		"transcript": "-"
+	},
+	{
+		"russian": "принести",
+		"english": "fetch",
+		"transcript": "-"
+	},
+	{
+		"russian": "мерцать",
+		"english": "flash",
+		"transcript": "-"
+	},
+	{
+		"russian": "складывать",
+		"english": "fold",
+		"transcript": "-"
+	},
+	{
+		"russian": "жарить",
+		"english": "fry",
+		"transcript": "-"
+	},
+	{
+		"russian": "собирать",
+		"english": "gather",
+		"transcript": "-"
+	},
+	{
+		"russian": "светиться",
+		"english": "glow",
+		"transcript": "-"
+	},
+	{
+		"russian": "забивать",
+		"english": "hammer",
+		"transcript": "-"
+	},
+	{
+		"russian": "чесаться",
+		"english": "itch",
+		"transcript": "-"
+	},
+	{
+		"russian": "становиться на колени",
+		"english": "kneel",
+		"transcript": "-"
+	},
+	{
+		"russian": "вязать",
+		"english": "knit",
+		"transcript": "-"
+	},
+	{
+		"russian": "прыгать",
+		"english": "leap",
+		"transcript": "-"
+	},
+	{
+		"russian": "таять",
+		"english": "melt",
+		"transcript": "-"
+	},
+	{
+		"russian": "чинить",
+		"english": "mend",
+		"transcript": "-"
+	},
+	{
+		"russian": "смешивать",
+		"english": "mix",
+		"transcript": "-"
+	},
+	{
+		"russian": "очищать",
+		"english": "peel",
+		"transcript": "-"
+	},
+	{
+		"russian": "щипать",
+		"english": "pinch",
+		"transcript": "-"
+	},
+	{
+		"russian": "радовать",
+		"english": "please",
+		"transcript": "-"
+	},
+	{
+		"russian": "уколоть",
+		"english": "prick",
+		"transcript": "-"
+	},
+	{
+		"russian": "реветь",
+		"english": "roar",
+		"transcript": "-"
+	},
+	{
+		"russian": "удовлетворять",
+		"english": "satisfy",
+		"transcript": "-"
+	},
+	{
+		"russian": "рассеивать",
+		"english": "scatter",
+		"transcript": "-"
+	},
+	{
+		"russian": "пугать",
+		"english": "scare",
+		"transcript": "-"
+	},
+	{
+		"russian": "кричать",
+		"english": "scream",
+		"transcript": "-"
+	},
+	{
+		"russian": "скрести",
+		"english": "scrub",
+		"transcript": "-"
+	},
+	{
+		"russian": "дрожать",
+		"english": "shiver",
+		"transcript": "-"
+	},
+	{
+		"russian": "скользить",
+		"english": "slide",
+		"transcript": "-"
+	},
+	{
+		"russian": "скользить",
+		"english": "slip",
+		"transcript": "-"
+	},
+	{
+		"russian": "нюхать",
+		"english": "sniff",
+		"transcript": "-"
+	},
+	{
+		"russian": "проливать",
+		"english": "spill",
+		"transcript": "-"
+	},
+	{
+		"russian": "вращать",
+		"english": "spin",
+		"transcript": "-"
+	},
+	{
+		"russian": "посыпать",
+		"english": "sprinkle",
+		"transcript": "-"
+	},
+	{
+		"russian": "сжимать",
+		"english": "squeeze",
+		"transcript": "-"
+	},
+	{
+		"russian": "ставить печать",
+		"english": "stamp",
+		"transcript": "-"
+	},
+	{
+		"russian": "управлять",
+		"english": "steer",
+		"transcript": "-"
+	},
+	{
+		"russian": "гладить",
+		"english": "stroke",
+		"transcript": "-"
+	},
+	{
+		"russian": "клясться",
+		"english": "swear",
+		"transcript": "-"
+	},
+	{
+		"russian": "рвать",
+		"english": "tear",
+		"transcript": "-"
+	},
+	{
+		"russian": "наклонять",
+		"english": "tip",
+		"transcript": "-"
+	},
+	{
+		"russian": "крутить",
+		"english": "twist",
+		"transcript": "-"
+	},
+	{
+		"russian": "блуждать",
+		"english": "wander",
+		"transcript": "-"
+	},
+	{
+		"russian": "заворачивать",
+		"english": "wrap",
+		"transcript": "-"
+	}
+]
+

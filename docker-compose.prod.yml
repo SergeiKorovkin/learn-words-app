@@ -1,0 +1,20 @@
+version: '3.8'
+services:
+  learn-words:
+    user: root
+    container_name: server
+    image: learn-words:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - "5005:5005"
+    volumes:
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
+
+
+
+
+

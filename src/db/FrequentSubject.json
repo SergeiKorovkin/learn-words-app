@@ -1,0 +1,3617 @@
+[
+	{
+		"russian": "время",
+		"english": "time",
+		"transcript": "-"
+	},
+	{
+		"russian": "год",
+		"english": "year",
+		"transcript": "-"
+	},
+	{
+		"russian": "люди",
+		"english": "people",
+		"transcript": "-"
+	},
+	{
+		"russian": "путь",
+		"english": "way",
+		"transcript": "-"
+	},
+	{
+		"russian": "день",
+		"english": "day",
+		"transcript": "-"
+	},
+	{
+		"russian": "человек",
+		"english": "man",
+		"transcript": "-"
+	},
+	{
+		"russian": "вещь",
+		"english": "thing",
+		"transcript": "-"
+	},
+	{
+		"russian": "женщина",
+		"english": "woman",
+		"transcript": "-"
+	},
+	{
+		"russian": "жизнь",
+		"english": "life",
+		"transcript": "-"
+	},
+	{
+		"russian": "ребёнок",
+		"english": "child",
+		"transcript": "-"
+	},
+	{
+		"russian": "мир",
+		"english": "world",
+		"transcript": "-"
+	},
+	{
+		"russian": "школа",
+		"english": "school",
+		"transcript": "-"
+	},
+	{
+		"russian": "штат",
+		"english": "state",
+		"transcript": "-"
+	},
+	{
+		"russian": "семья",
+		"english": "family",
+		"transcript": "-"
+	},
+	{
+		"russian": "студент",
+		"english": "student",
+		"transcript": "-"
+	},
+	{
+		"russian": "группа",
+		"english": "group",
+		"transcript": "-"
+	},
+	{
+		"russian": "страна",
+		"english": "country",
+		"transcript": "-"
+	},
+	{
+		"russian": "проблема",
+		"english": "problem",
+		"transcript": "-"
+	},
+	{
+		"russian": "рука",
+		"english": "hand",
+		"transcript": "-"
+	},
+	{
+		"russian": "часть",
+		"english": "part",
+		"transcript": "-"
+	},
+	{
+		"russian": "место",
+		"english": "place",
+		"transcript": "-"
+	},
+	{
+		"russian": "случай",
+		"english": "case",
+		"transcript": "-"
+	},
+	{
+		"russian": "факт",
+		"english": "fact",
+		"transcript": "-"
+	},
+	{
+		"russian": "глаз",
+		"english": "eye",
+		"transcript": "-"
+	},
+	{
+		"russian": "друг",
+		"english": "friend",
+		"transcript": "-"
+	},
+	{
+		"russian": "месяц",
+		"english": "month",
+		"transcript": "-"
+	},
+	{
+		"russian": "правда",
+		"english": "truth",
+		"transcript": "-"
+	},
+	{
+		"russian": "книга",
+		"english": "book",
+		"transcript": "-"
+	},
+	{
+		"russian": "вопрос",
+		"english": "issue",
+		"transcript": "-"
+	},
+	{
+		"russian": "бизнес",
+		"english": "business",
+		"transcript": "-"
+	},
+	{
+		"russian": "изучение",
+		"english": "study",
+		"transcript": "-"
+	},
+	{
+		"russian": "игра",
+		"english": "game",
+		"transcript": "-"
+	},
+	{
+		"russian": "работа",
+		"english": "job",
+		"transcript": "-"
+	},
+	{
+		"russian": "слово",
+		"english": "word",
+		"transcript": "-"
+	},
+	{
+		"russian": "правительство",
+		"english": "government",
+		"transcript": "-"
+	},
+	{
+		"russian": "компания",
+		"english": "company",
+		"transcript": "-"
+	},
+	{
+		"russian": "номер",
+		"english": "number",
+		"transcript": "-"
+	},
+	{
+		"russian": "площадь",
+		"english": "area",
+		"transcript": "-"
+	},
+	{
+		"russian": "дом",
+		"english": "home",
+		"transcript": "-"
+	},
+	{
+		"russian": "вода",
+		"english": "water",
+		"transcript": "-"
+	},
+	{
+		"russian": "комната",
+		"english": "room",
+		"transcript": "-"
+	},
+	{
+		"russian": "вопрос",
+		"english": "question",
+		"transcript": "-"
+	},
+	{
+		"russian": "деньги",
+		"english": "money",
+		"transcript": "-"
+	},
+	{
+		"russian": "начало",
+		"english": "beginning",
+		"transcript": "-"
+	},
+	{
+		"russian": "пример",
+		"english": "example",
+		"transcript": "-"
+	},
+	{
+		"russian": "состояние",
+		"english": "state",
+		"transcript": "-"
+	},
+	{
+		"russian": "город",
+		"english": "city",
+		"transcript": "-"
+	},
+	{
+		"russian": "дорога",
+		"english": "road",
+		"transcript": "-"
+	},
+	{
+		"russian": "мужчина",
+		"english": "man",
+		"transcript": "-"
+	},
+	{
+		"russian": "ночь",
+		"english": "night",
+		"transcript": "-"
+	},
+	{
+		"russian": "спина",
+		"english": "back",
+		"transcript": "-"
+	},
+	{
+		"russian": "промышленность",
+		"english": "industry",
+		"transcript": "-"
+	},
+	{
+		"russian": "ставка",
+		"english": "rate",
+		"transcript": "-"
+	},
+	{
+		"russian": "точка",
+		"english": "point",
+		"transcript": "-"
+	},
+	{
+		"russian": "экономика",
+		"english": "economy",
+		"transcript": "-"
+	},
+	{
+		"russian": "ценность",
+		"english": "value",
+		"transcript": "-"
+	},
+	{
+		"russian": "система",
+		"english": "system",
+		"transcript": "-"
+	},
+	{
+		"russian": "банк",
+		"english": "bank",
+		"transcript": "-"
+	},
+	{
+		"russian": "команда",
+		"english": "team",
+		"transcript": "-"
+	},
+	{
+		"russian": "родитель",
+		"english": "parent",
+		"transcript": "-"
+	},
+	{
+		"russian": "интерес",
+		"english": "interest",
+		"transcript": "-"
+	},
+	{
+		"russian": "сторона",
+		"english": "side",
+		"transcript": "-"
+	},
+	{
+		"russian": "деятельность",
+		"english": "activity",
+		"transcript": "-"
+	},
+	{
+		"russian": "служба",
+		"english": "service",
+		"transcript": "-"
+	},
+	{
+		"russian": "начало",
+		"english": "start",
+		"transcript": "-"
+	},
+	{
+		"russian": "рынок",
+		"english": "market",
+		"transcript": "-"
+	},
+	{
+		"russian": "война",
+		"english": "war",
+		"transcript": "-"
+	},
+	{
+		"russian": "информация",
+		"english": "information",
+		"transcript": "-"
+	},
+	{
+		"russian": "сила",
+		"english": "power",
+		"transcript": "-"
+	},
+	{
+		"russian": "цена",
+		"english": "price",
+		"transcript": "-"
+	},
+	{
+		"russian": "пункт",
+		"english": "point",
+		"transcript": "-"
+	},
+	{
+		"russian": "партия",
+		"english": "party",
+		"transcript": "-"
+	},
+	{
+		"russian": "стоимость",
+		"english": "cost",
+		"transcript": "-"
+	},
+	{
+		"russian": "услуга",
+		"english": "service",
+		"transcript": "-"
+	},
+	{
+		"russian": "телефон",
+		"english": "phone",
+		"transcript": "-"
+	},
+	{
+		"russian": "час",
+		"english": "hour",
+		"transcript": "-"
+	},
+	{
+		"russian": "риск",
+		"english": "risk",
+		"transcript": "-"
+	},
+	{
+		"russian": "жир",
+		"english": "fat",
+		"transcript": "-"
+	},
+	{
+		"russian": "сила",
+		"english": "force",
+		"transcript": "-"
+	},
+	{
+		"russian": "взгляд",
+		"english": "view",
+		"transcript": "-"
+	},
+	{
+		"russian": "модель",
+		"english": "model",
+		"transcript": "-"
+	},
+	{
+		"russian": "еда",
+		"english": "food",
+		"transcript": "-"
+	},
+	{
+		"russian": "общество",
+		"english": "society",
+		"transcript": "-"
+	},
+	{
+		"russian": "фигура",
+		"english": "figure",
+		"transcript": "-"
+	},
+	{
+		"russian": "природа",
+		"english": "nature",
+		"transcript": "-"
+	},
+	{
+		"russian": "мысль",
+		"english": "thought",
+		"transcript": "-"
+	},
+	{
+		"russian": "голова",
+		"english": "head",
+		"transcript": "-"
+	},
+	{
+		"russian": "центр",
+		"english": "center",
+		"transcript": "-"
+	},
+	{
+		"russian": "идея",
+		"english": "idea",
+		"transcript": "-"
+	},
+	{
+		"russian": "рыба",
+		"english": "fish",
+		"transcript": "-"
+	},
+	{
+		"russian": "гора",
+		"english": "mountain",
+		"transcript": "-"
+	},
+	{
+		"russian": "лидер",
+		"english": "leader",
+		"transcript": "-"
+	},
+	{
+		"russian": "игрок",
+		"english": "player",
+		"transcript": "-"
+	},
+	{
+		"russian": "собака",
+		"english": "dog",
+		"transcript": "-"
+	},
+	{
+		"russian": "знание",
+		"english": "knowledge",
+		"transcript": "-"
+	},
+	{
+		"russian": "государство",
+		"english": "state",
+		"transcript": "-"
+	},
+	{
+		"russian": "дом",
+		"english": "house",
+		"transcript": "-"
+	},
+	{
+		"russian": "автомобиль",
+		"english": "car",
+		"transcript": "-"
+	},
+	{
+		"russian": "правило",
+		"english": "rule",
+		"transcript": "-"
+	},
+	{
+		"russian": "энергия",
+		"english": "energy",
+		"transcript": "-"
+	},
+	{
+		"russian": "секретарь",
+		"english": "secretary",
+		"transcript": "-"
+	},
+	{
+		"russian": "цель",
+		"english": "purpose",
+		"transcript": "-"
+	},
+	{
+		"russian": "кампания",
+		"english": "campaign",
+		"transcript": "-"
+	},
+	{
+		"russian": "результат",
+		"english": "result",
+		"transcript": "-"
+	},
+	{
+		"russian": "воздух",
+		"english": "air",
+		"transcript": "-"
+	},
+	{
+		"russian": "жена",
+		"english": "wife",
+		"transcript": "-"
+	},
+	{
+		"russian": "причина",
+		"english": "reason",
+		"transcript": "-"
+	},
+	{
+		"russian": "земля",
+		"english": "earth",
+		"transcript": "-"
+	},
+	{
+		"russian": "образ",
+		"english": "image",
+		"transcript": "-"
+	},
+	{
+		"russian": "объект",
+		"english": "object",
+		"transcript": "-"
+	},
+	{
+		"russian": "поле",
+		"english": "field",
+		"transcript": "-"
+	},
+	{
+		"russian": "письмо",
+		"english": "letter",
+		"transcript": "-"
+	},
+	{
+		"russian": "образование",
+		"english": "education",
+		"transcript": "-"
+	},
+	{
+		"russian": "здоровье",
+		"english": "health",
+		"transcript": "-"
+	},
+	{
+		"russian": "человек",
+		"english": "person",
+		"transcript": "-"
+	},
+	{
+		"russian": "шанс",
+		"english": "chance",
+		"transcript": "-"
+	},
+	{
+		"russian": "число",
+		"english": "number",
+		"transcript": "-"
+	},
+	{
+		"russian": "история",
+		"english": "story",
+		"transcript": "-"
+	},
+	{
+		"russian": "молодежь",
+		"english": "youth",
+		"transcript": "-"
+	},
+	{
+		"russian": "много",
+		"english": "lot",
+		"transcript": "-"
+	},
+	{
+		"russian": "солнце",
+		"english": "sun",
+		"transcript": "-"
+	},
+	{
+		"russian": "тип",
+		"english": "type",
+		"transcript": "-"
+	},
+	{
+		"russian": "право",
+		"english": "right",
+		"transcript": "-"
+	},
+	{
+		"russian": "мальчик",
+		"english": "boy",
+		"transcript": "-"
+	},
+	{
+		"russian": "смерть",
+		"english": "death",
+		"transcript": "-"
+	},
+	{
+		"russian": "действие",
+		"english": "action",
+		"transcript": "-"
+	},
+	{
+		"russian": "отношение",
+		"english": "relation",
+		"transcript": "-"
+	},
+	{
+		"russian": "встреча",
+		"english": "meeting",
+		"transcript": "-"
+	},
+	{
+		"russian": "болезнь",
+		"english": "disease",
+		"transcript": "-"
+	},
+	{
+		"russian": "масло",
+		"english": "oil",
+		"transcript": "-"
+	},
+	{
+		"russian": "голос",
+		"english": "voice",
+		"transcript": "-"
+	},
+	{
+		"russian": "птица",
+		"english": "bird",
+		"transcript": "-"
+	},
+	{
+		"russian": "совет",
+		"english": "advice",
+		"transcript": "-"
+	},
+	{
+		"russian": "эффект",
+		"english": "effect",
+		"transcript": "-"
+	},
+	{
+		"russian": "опыт",
+		"english": "experience",
+		"transcript": "-"
+	},
+	{
+		"russian": "основание",
+		"english": "reason",
+		"transcript": "-"
+	},
+	{
+		"russian": "расстояние",
+		"english": "distance",
+		"transcript": "-"
+	},
+	{
+		"russian": "утро",
+		"english": "morning",
+		"transcript": "-"
+	},
+	{
+		"russian": "родство",
+		"english": "relation",
+		"transcript": "-"
+	},
+	{
+		"russian": "изменение",
+		"english": "change",
+		"transcript": "-"
+	},
+	{
+		"russian": "отрасль",
+		"english": "industry",
+		"transcript": "-"
+	},
+	{
+		"russian": "кровь",
+		"english": "blood",
+		"transcript": "-"
+	},
+	{
+		"russian": "выбор",
+		"english": "choice",
+		"transcript": "-"
+	},
+	{
+		"russian": "матч",
+		"english": "match",
+		"transcript": "-"
+	},
+	{
+		"russian": "магазин",
+		"english": "shop",
+		"transcript": "-"
+	},
+	{
+		"russian": "вино",
+		"english": "wine",
+		"transcript": "-"
+	},
+	{
+		"russian": "пространство",
+		"english": "space",
+		"transcript": "-"
+	},
+	{
+		"russian": "владелец",
+		"english": "owner",
+		"transcript": "-"
+	},
+	{
+		"russian": "налог",
+		"english": "tax",
+		"transcript": "-"
+	},
+	{
+		"russian": "цель",
+		"english": "goal",
+		"transcript": "-"
+	},
+	{
+		"russian": "содержание",
+		"english": "content",
+		"transcript": "-"
+	},
+	{
+		"russian": "характер",
+		"english": "character",
+		"transcript": "-"
+	},
+	{
+		"russian": "аудитория",
+		"english": "audience",
+		"transcript": "-"
+	},
+	{
+		"russian": "фильм",
+		"english": "movie",
+		"transcript": "-"
+	},
+	{
+		"russian": "кредит",
+		"english": "credit",
+		"transcript": "-"
+	},
+	{
+		"russian": "версия",
+		"english": "version",
+		"transcript": "-"
+	},
+	{
+		"russian": "товар",
+		"english": "commodity",
+		"transcript": "-"
+	},
+	{
+		"russian": "перерыв",
+		"english": "break",
+		"transcript": "-"
+	},
+	{
+		"russian": "момент",
+		"english": "moment",
+		"transcript": "-"
+	},
+	{
+		"russian": "стекло",
+		"english": "glass",
+		"transcript": "-"
+	},
+	{
+		"russian": "навык",
+		"english": "skill",
+		"transcript": "-"
+	},
+	{
+		"russian": "сестра",
+		"english": "sister",
+		"transcript": "-"
+	},
+	{
+		"russian": "серебро",
+		"english": "silver",
+		"transcript": "-"
+	},
+	{
+		"russian": "воздействие",
+		"english": "effect",
+		"transcript": "-"
+	},
+	{
+		"russian": "университет",
+		"english": "university",
+		"transcript": "-"
+	},
+	{
+		"russian": "мнение",
+		"english": "opinion",
+		"transcript": "-"
+	},
+	{
+		"russian": "количество",
+		"english": "amount",
+		"transcript": "-"
+	},
+	{
+		"russian": "угол",
+		"english": "corner",
+		"transcript": "-"
+	},
+	{
+		"russian": "вид",
+		"english": "specie",
+		"transcript": "-"
+	},
+	{
+		"russian": "предложение",
+		"english": "sentence",
+		"transcript": "-"
+	},
+	{
+		"russian": "тело",
+		"english": "body",
+		"transcript": "-"
+	},
+	{
+		"russian": "штука",
+		"english": "thing",
+		"transcript": "-"
+	},
+	{
+		"russian": "дело",
+		"english": "deed",
+		"transcript": "-"
+	},
+	{
+		"russian": "род",
+		"english": "kind",
+		"transcript": "-"
+	},
+	{
+		"russian": "акция",
+		"english": "action",
+		"transcript": "-"
+	},
+	{
+		"russian": "потребность",
+		"english": "need",
+		"transcript": "-"
+	},
+	{
+		"russian": "фонд",
+		"english": "foundation",
+		"transcript": "-"
+	},
+	{
+		"russian": "материал",
+		"english": "material",
+		"transcript": "-"
+	},
+	{
+		"russian": "забота",
+		"english": "care",
+		"transcript": "-"
+	},
+	{
+		"russian": "основа",
+		"english": "basis",
+		"transcript": "-"
+	},
+	{
+		"russian": "отношение",
+		"english": "attitude",
+		"transcript": "-"
+	},
+	{
+		"russian": "связь",
+		"english": "relation",
+		"transcript": "-"
+	},
+	{
+		"russian": "мяч",
+		"english": "ball",
+		"transcript": "-"
+	},
+	{
+		"russian": "рождение",
+		"english": "birth",
+		"transcript": "-"
+	},
+	{
+		"russian": "сумма",
+		"english": "amount",
+		"transcript": "-"
+	},
+	{
+		"russian": "активность",
+		"english": "activity",
+		"transcript": "-"
+	},
+	{
+		"russian": "контракт",
+		"english": "contract",
+		"transcript": "-"
+	},
+	{
+		"russian": "продукт",
+		"english": "product",
+		"transcript": "-"
+	},
+	{
+		"russian": "срок",
+		"english": "term",
+		"transcript": "-"
+	},
+	{
+		"russian": "команда",
+		"english": "command",
+		"transcript": "-"
+	},
+	{
+		"russian": "событие",
+		"english": "event",
+		"transcript": "-"
+	},
+	{
+		"russian": "вопрос",
+		"english": "matter",
+		"transcript": "-"
+	},
+	{
+		"russian": "вершина",
+		"english": "top",
+		"transcript": "-"
+	},
+	{
+		"russian": "диапазон",
+		"english": "range",
+		"transcript": "-"
+	},
+	{
+		"russian": "дно",
+		"english": "bottom",
+		"transcript": "-"
+	},
+	{
+		"russian": "прошлое",
+		"english": "past",
+		"transcript": "-"
+	},
+	{
+		"russian": "кольцо",
+		"english": "ring",
+		"transcript": "-"
+	},
+	{
+		"russian": "карта",
+		"english": "card",
+		"transcript": "-"
+	},
+	{
+		"russian": "группа",
+		"english": "band",
+		"transcript": "-"
+	},
+	{
+		"russian": "открытка",
+		"english": "card",
+		"transcript": "-"
+	},
+	{
+		"russian": "песок",
+		"english": "sand",
+		"transcript": "-"
+	},
+	{
+		"russian": "статья",
+		"english": "article",
+		"transcript": "-"
+	},
+	{
+		"russian": "степень",
+		"english": "degree",
+		"transcript": "-"
+	},
+	{
+		"russian": "самолет",
+		"english": "plane",
+		"transcript": "-"
+	},
+	{
+		"russian": "магазин",
+		"english": "store",
+		"transcript": "-"
+	},
+	{
+		"russian": "ветка",
+		"english": "branch",
+		"transcript": "-"
+	},
+	{
+		"russian": "товар",
+		"english": "product",
+		"transcript": "-"
+	},
+	{
+		"russian": "мероприятие",
+		"english": "event",
+		"transcript": "-"
+	},
+	{
+		"russian": "рука",
+		"english": "arm",
+		"transcript": "-"
+	},
+	{
+		"russian": "история",
+		"english": "history",
+		"transcript": "-"
+	},
+	{
+		"russian": "земля",
+		"english": "ground",
+		"transcript": "-"
+	},
+	{
+		"russian": "конец",
+		"english": "end",
+		"transcript": "-"
+	},
+	{
+		"russian": "клуб",
+		"english": "club",
+		"transcript": "-"
+	},
+	{
+		"russian": "дизайн",
+		"english": "design",
+		"transcript": "-"
+	},
+	{
+		"russian": "функция",
+		"english": "function",
+		"transcript": "-"
+	},
+	{
+		"russian": "порядок",
+		"english": "order",
+		"transcript": "-"
+	},
+	{
+		"russian": "практика",
+		"english": "practice",
+		"transcript": "-"
+	},
+	{
+		"russian": "коллекция",
+		"english": "collection",
+		"transcript": "-"
+	},
+	{
+		"russian": "поверхность",
+		"english": "surface",
+		"transcript": "-"
+	},
+	{
+		"russian": "гид",
+		"english": "guide",
+		"transcript": "-"
+	},
+	{
+		"russian": "радио",
+		"english": "radio",
+		"transcript": "-"
+	},
+	{
+		"russian": "танец",
+		"english": "dance",
+		"transcript": "-"
+	},
+	{
+		"russian": "машина",
+		"english": "machine",
+		"transcript": "-"
+	},
+	{
+		"russian": "стол",
+		"english": "table",
+		"transcript": "-"
+	},
+	{
+		"russian": "звезда",
+		"english": "star",
+		"transcript": "-"
+	},
+	{
+		"russian": "карта",
+		"english": "map",
+		"transcript": "-"
+	},
+	{
+		"russian": "курс",
+		"english": "course",
+		"transcript": "-"
+	},
+	{
+		"russian": "ферма",
+		"english": "farm",
+		"transcript": "-"
+	},
+	{
+		"russian": "население",
+		"english": "population",
+		"transcript": "-"
+	},
+	{
+		"russian": "серия",
+		"english": "series",
+		"transcript": "-"
+	},
+	{
+		"russian": "вероятность",
+		"english": "chance",
+		"transcript": "-"
+	},
+	{
+		"russian": "круг",
+		"english": "circle",
+		"transcript": "-"
+	},
+	{
+		"russian": "доска",
+		"english": "board",
+		"transcript": "-"
+	},
+	{
+		"russian": "фрукт",
+		"english": "fruit",
+		"transcript": "-"
+	},
+	{
+		"russian": "лодка",
+		"english": "boat",
+		"transcript": "-"
+	},
+	{
+		"russian": "цвет",
+		"english": "color",
+		"transcript": "-"
+	},
+	{
+		"russian": "вести",
+		"english": "lead",
+		"transcript": "-"
+	},
+	{
+		"russian": "скала",
+		"english": "rock",
+		"transcript": "-"
+	},
+	{
+		"russian": "заказ",
+		"english": "order",
+		"transcript": "-"
+	},
+	{
+		"russian": "список",
+		"english": "list",
+		"transcript": "-"
+	},
+	{
+		"russian": "край",
+		"english": "edge",
+		"transcript": "-"
+	},
+	{
+		"russian": "температура",
+		"english": "temperature",
+		"transcript": "-"
+	},
+	{
+		"russian": "бог",
+		"english": "god",
+		"transcript": "-"
+	},
+	{
+		"russian": "заметка",
+		"english": "note",
+		"transcript": "-"
+	},
+	{
+		"russian": "состояние",
+		"english": "condition",
+		"transcript": "-"
+	},
+	{
+		"russian": "ряд",
+		"english": "range",
+		"transcript": "-"
+	},
+	{
+		"russian": "тень",
+		"english": "shadow",
+		"transcript": "-"
+	},
+	{
+		"russian": "трек",
+		"english": "track",
+		"transcript": "-"
+	},
+	{
+		"russian": "высота",
+		"english": "height",
+		"transcript": "-"
+	},
+	{
+		"russian": "самолет",
+		"english": "aircraft",
+		"transcript": "-"
+	},
+	{
+		"russian": "красота",
+		"english": "beauty",
+		"transcript": "-"
+	},
+	{
+		"russian": "станция",
+		"english": "station",
+		"transcript": "-"
+	},
+	{
+		"russian": "стена",
+		"english": "wall",
+		"transcript": "-"
+	},
+	{
+		"russian": "бумага",
+		"english": "paper",
+		"transcript": "-"
+	},
+	{
+		"russian": "дружба",
+		"english": "friendship",
+		"transcript": "-"
+	},
+	{
+		"russian": "собственность",
+		"english": "property",
+		"transcript": "-"
+	},
+	{
+		"russian": "центр",
+		"english": "centre",
+		"transcript": "-"
+	},
+	{
+		"russian": "сцена",
+		"english": "scene",
+		"transcript": "-"
+	},
+	{
+		"russian": "язык",
+		"english": "language",
+		"transcript": "-"
+	},
+	{
+		"russian": "форма",
+		"english": "shape",
+		"transcript": "-"
+	},
+	{
+		"russian": "цифра",
+		"english": "figure",
+		"transcript": "-"
+	},
+	{
+		"russian": "улица",
+		"english": "street",
+		"transcript": "-"
+	},
+	{
+		"russian": "коробка",
+		"english": "box",
+		"transcript": "-"
+	},
+	{
+		"russian": "существительное",
+		"english": "noun",
+		"transcript": "-"
+	},
+	{
+		"russian": "король",
+		"english": "king",
+		"transcript": "-"
+	},
+	{
+		"russian": "озеро",
+		"english": "lake",
+		"transcript": "-"
+	},
+	{
+		"russian": "мгновение",
+		"english": "moment",
+		"transcript": "-"
+	},
+	{
+		"russian": "шкала",
+		"english": "scale",
+		"transcript": "-"
+	},
+	{
+		"russian": "водитель",
+		"english": "driver",
+		"transcript": "-"
+	},
+	{
+		"russian": "платформа",
+		"english": "platform",
+		"transcript": "-"
+	},
+	{
+		"russian": "луна",
+		"english": "moon",
+		"transcript": "-"
+	},
+	{
+		"russian": "лес",
+		"english": "forest",
+		"transcript": "-"
+	},
+	{
+		"russian": "стол",
+		"english": "desk",
+		"transcript": "-"
+	},
+	{
+		"russian": "честь",
+		"english": "honor",
+		"transcript": "-"
+	},
+	{
+		"russian": "результат",
+		"english": "effect",
+		"transcript": "-"
+	},
+	{
+		"russian": "маршрут",
+		"english": "route",
+		"transcript": "-"
+	},
+	{
+		"russian": "храм",
+		"english": "temple",
+		"transcript": "-"
+	},
+	{
+		"russian": "зарядка",
+		"english": "charge",
+		"transcript": "-"
+	},
+	{
+		"russian": "проект",
+		"english": "project",
+		"transcript": "-"
+	},
+	{
+		"russian": "метод",
+		"english": "method",
+		"transcript": "-"
+	},
+	{
+		"russian": "категория",
+		"english": "category",
+		"transcript": "-"
+	},
+	{
+		"russian": "библиотека",
+		"english": "library",
+		"transcript": "-"
+	},
+	{
+		"russian": "нога",
+		"english": "foot",
+		"transcript": "-"
+	},
+	{
+		"russian": "ключ",
+		"english": "key",
+		"transcript": "-"
+	},
+	{
+		"russian": "волна",
+		"english": "wave",
+		"transcript": "-"
+	},
+	{
+		"russian": "манера",
+		"english": "manner",
+		"transcript": "-"
+	},
+	{
+		"russian": "явление",
+		"english": "phenomenon",
+		"transcript": "-"
+	},
+	{
+		"russian": "опинион",
+		"english": "opinion",
+		"transcript": "-"
+	},
+	{
+		"russian": "аспект",
+		"english": "aspect",
+		"transcript": "-"
+	},
+	{
+		"russian": "путешествие",
+		"english": "journey",
+		"transcript": "-"
+	},
+	{
+		"russian": "роль",
+		"english": "role",
+		"transcript": "-"
+	},
+	{
+		"russian": "диван",
+		"english": "sofa",
+		"transcript": "-"
+	},
+	{
+		"russian": "газета",
+		"english": "newspaper",
+		"transcript": "-"
+	},
+	{
+		"russian": "разрез",
+		"english": "cut",
+		"transcript": "-"
+	},
+	{
+		"russian": "мышь",
+		"english": "mouse",
+		"transcript": "-"
+	},
+	{
+		"russian": "строка",
+		"english": "string",
+		"transcript": "-"
+	},
+	{
+		"russian": "фронт",
+		"english": "front",
+		"transcript": "-"
+	},
+	{
+		"russian": "лист",
+		"english": "leaf",
+		"transcript": "-"
+	},
+	{
+		"russian": "океан",
+		"english": "ocean",
+		"transcript": "-"
+	},
+	{
+		"russian": "страница",
+		"english": "page",
+		"transcript": "-"
+	},
+	{
+		"russian": "красный",
+		"english": "red",
+		"transcript": "-"
+	},
+	{
+		"russian": "дочь",
+		"english": "daughter",
+		"transcript": "-"
+	},
+	{
+		"russian": "дерево",
+		"english": "wood",
+		"transcript": "-"
+	},
+	{
+		"russian": "мотор",
+		"english": "motor",
+		"transcript": "-"
+	},
+	{
+		"russian": "мечта",
+		"english": "dream",
+		"transcript": "-"
+	},
+	{
+		"russian": "вечер",
+		"english": "evening",
+		"transcript": "-"
+	},
+	{
+		"russian": "условие",
+		"english": "condition",
+		"transcript": "-"
+	},
+	{
+		"russian": "корм",
+		"english": "feed",
+		"transcript": "-"
+	},
+	{
+		"russian": "инструмент",
+		"english": "tool",
+		"transcript": "-"
+	},
+	{
+		"russian": "итого",
+		"english": "total",
+		"transcript": "-"
+	},
+	{
+		"russian": "базовый",
+		"english": "basic",
+		"transcript": "-"
+	},
+	{
+		"russian": "запах",
+		"english": "smell",
+		"transcript": "-"
+	},
+	{
+		"russian": "долина",
+		"english": "valley",
+		"transcript": "-"
+	},
+	{
+		"russian": "или",
+		"english": "nor",
+		"transcript": "-"
+	},
+	{
+		"russian": "двойной",
+		"english": "double",
+		"transcript": "-"
+	},
+	{
+		"russian": "место",
+		"english": "seat",
+		"transcript": "-"
+	},
+	{
+		"russian": "прибытие",
+		"english": "arrival",
+		"transcript": "-"
+	},
+	{
+		"russian": "происхождение",
+		"english": "origin",
+		"transcript": "-"
+	},
+	{
+		"russian": "урок",
+		"english": "lesson",
+		"transcript": "-"
+	},
+	{
+		"russian": "вера",
+		"english": "faith",
+		"transcript": "-"
+	},
+	{
+		"russian": "поиск",
+		"english": "search",
+		"transcript": "-"
+	},
+	{
+		"russian": "прилив",
+		"english": "tide",
+		"transcript": "-"
+	},
+	{
+		"russian": "клетка",
+		"english": "cell",
+		"transcript": "-"
+	},
+	{
+		"russian": "краска",
+		"english": "paint",
+		"transcript": "-"
+	},
+	{
+		"russian": "пятно",
+		"english": "spot",
+		"transcript": "-"
+	},
+	{
+		"russian": "мозг",
+		"english": "brain",
+		"transcript": "-"
+	},
+	{
+		"russian": "смешивать",
+		"english": "mix",
+		"transcript": "-"
+	},
+	{
+		"russian": "тест",
+		"english": "test",
+		"transcript": "-"
+	},
+	{
+		"russian": "поддержка",
+		"english": "support",
+		"transcript": "-"
+	},
+	{
+		"russian": "речь",
+		"english": "speech",
+		"transcript": "-"
+	},
+	{
+		"russian": "пар",
+		"english": "steam",
+		"transcript": "-"
+	},
+	{
+		"russian": "движение",
+		"english": "motion",
+		"transcript": "-"
+	},
+	{
+		"russian": "путь",
+		"english": "route",
+		"transcript": "-"
+	},
+	{
+		"russian": "документ",
+		"english": "paper",
+		"transcript": "-"
+	},
+	{
+		"russian": "луч",
+		"english": "ray",
+		"transcript": "-"
+	},
+	{
+		"russian": "механизм",
+		"english": "mechanism",
+		"transcript": "-"
+	},
+	{
+		"russian": "пиво",
+		"english": "beer",
+		"transcript": "-"
+	},
+	{
+		"russian": "чаевые",
+		"english": "tip",
+		"transcript": "-"
+	},
+	{
+		"russian": "резина",
+		"english": "rubber",
+		"transcript": "-"
+	},
+	{
+		"russian": "сладкий",
+		"english": "sweet",
+		"transcript": "-"
+	},
+	{
+		"russian": "снаружи",
+		"english": "outside",
+		"transcript": "-"
+	},
+	{
+		"russian": "сахар",
+		"english": "sugar",
+		"transcript": "-"
+	},
+	{
+		"russian": "планета",
+		"english": "planet",
+		"transcript": "-"
+	},
+	{
+		"russian": "вариант",
+		"english": "choice",
+		"transcript": "-"
+	},
+	{
+		"russian": "молоко",
+		"english": "milk",
+		"transcript": "-"
+	},
+	{
+		"russian": "курорт",
+		"english": "resort",
+		"transcript": "-"
+	},
+	{
+		"russian": "спрос",
+		"english": "demand",
+		"transcript": "-"
+	},
+	{
+		"russian": "ужин",
+		"english": "dinner",
+		"transcript": "-"
+	},
+	{
+		"russian": "пчела",
+		"english": "bee",
+		"transcript": "-"
+	},
+	{
+		"russian": "рок",
+		"english": "rock",
+		"transcript": "-"
+	},
+	{
+		"russian": "экзамен",
+		"english": "test",
+		"transcript": "-"
+	},
+	{
+		"russian": "капля",
+		"english": "drop",
+		"transcript": "-"
+	},
+	{
+		"russian": "сердце",
+		"english": "heart",
+		"transcript": "-"
+	},
+	{
+		"russian": "являюсь",
+		"english": "am",
+		"transcript": "-"
+	},
+	{
+		"russian": "подарок",
+		"english": "present",
+		"transcript": "-"
+	},
+	{
+		"russian": "ток",
+		"english": "current",
+		"transcript": "-"
+	},
+	{
+		"russian": "шок",
+		"english": "shock",
+		"transcript": "-"
+	},
+	{
+		"russian": "шея",
+		"english": "neck",
+		"transcript": "-"
+	},
+	{
+		"russian": "цент",
+		"english": "cent",
+		"transcript": "-"
+	},
+	{
+		"russian": "колесо",
+		"english": "wheel",
+		"transcript": "-"
+	},
+	{
+		"russian": "переписка",
+		"english": "correspondence",
+		"transcript": "-"
+	},
+	{
+		"russian": "имущество",
+		"english": "estate",
+		"transcript": "-"
+	},
+	{
+		"russian": "рецепт",
+		"english": "recipe",
+		"transcript": "-"
+	},
+	{
+		"russian": "презентация",
+		"english": "presentation",
+		"transcript": "-"
+	},
+	{
+		"russian": "приложение",
+		"english": "application",
+		"transcript": "-"
+	},
+	{
+		"russian": "управление",
+		"english": "management",
+		"transcript": "-"
+	},
+	{
+		"russian": "цветок",
+		"english": "flower",
+		"transcript": "-"
+	},
+	{
+		"russian": "надежда",
+		"english": "hope",
+		"transcript": "-"
+	},
+	{
+		"russian": "птичка",
+		"english": "bird",
+		"transcript": "-"
+	},
+	{
+		"russian": "устройство",
+		"english": "device",
+		"transcript": "-"
+	},
+	{
+		"russian": "свет",
+		"english": "light",
+		"transcript": "-"
+	},
+	{
+		"russian": "почта",
+		"english": "post",
+		"transcript": "-"
+	},
+	{
+		"russian": "бассейн",
+		"english": "pool",
+		"transcript": "-"
+	},
+	{
+		"russian": "форма",
+		"english": "form",
+		"transcript": "-"
+	},
+	{
+		"russian": "убийство",
+		"english": "murder",
+		"transcript": "-"
+	},
+	{
+		"russian": "цена",
+		"english": "cost",
+		"transcript": "-"
+	},
+	{
+		"russian": "лето",
+		"english": "summer",
+		"transcript": "-"
+	},
+	{
+		"russian": "текст",
+		"english": "text",
+		"transcript": "-"
+	},
+	{
+		"russian": "лошадь",
+		"english": "horse",
+		"transcript": "-"
+	},
+	{
+		"russian": "религия",
+		"english": "religion",
+		"transcript": "-"
+	},
+	{
+		"russian": "берег",
+		"english": "bank",
+		"transcript": "-"
+	},
+	{
+		"russian": "агент",
+		"english": "agent",
+		"transcript": "-"
+	},
+	{
+		"russian": "дыра",
+		"english": "hole",
+		"transcript": "-"
+	},
+	{
+		"russian": "отчет",
+		"english": "report",
+		"transcript": "-"
+	},
+	{
+		"russian": "счет",
+		"english": "score",
+		"transcript": "-"
+	},
+	{
+		"russian": "запись",
+		"english": "record",
+		"transcript": "-"
+	},
+	{
+		"russian": "море",
+		"english": "sea",
+		"transcript": "-"
+	},
+	{
+		"russian": "спальня",
+		"english": "bedroom",
+		"transcript": "-"
+	},
+	{
+		"russian": "буква",
+		"english": "letter",
+		"transcript": "-"
+	},
+	{
+		"russian": "лечение",
+		"english": "treatment",
+		"transcript": "-"
+	},
+	{
+		"russian": "реакция",
+		"english": "reaction",
+		"transcript": "-"
+	},
+	{
+		"russian": "решение",
+		"english": "solution",
+		"transcript": "-"
+	},
+	{
+		"russian": "сигарета",
+		"english": "cigarette",
+		"transcript": "-"
+	},
+	{
+		"russian": "след",
+		"english": "track",
+		"transcript": "-"
+	},
+	{
+		"russian": "прием пищи",
+		"english": "meal",
+		"transcript": "-"
+	},
+	{
+		"russian": "обсуждение",
+		"english": "discussion",
+		"transcript": "-"
+	},
+	{
+		"russian": "угол",
+		"english": "angle",
+		"transcript": "-"
+	},
+	{
+		"russian": "процент",
+		"english": "percentage",
+		"transcript": "-"
+	},
+	{
+		"russian": "связь",
+		"english": "connection",
+		"transcript": "-"
+	},
+	{
+		"russian": "прием",
+		"english": "reception",
+		"transcript": "-"
+	},
+	{
+		"russian": "ухо",
+		"english": "ear",
+		"transcript": "-"
+	},
+	{
+		"russian": "регион",
+		"english": "region",
+		"transcript": "-"
+	},
+	{
+		"russian": "район",
+		"english": "district",
+		"transcript": "-"
+	},
+	{
+		"russian": "черновик",
+		"english": "draft",
+		"transcript": "-"
+	},
+	{
+		"russian": "легкий ветерок",
+		"english": "breeze",
+		"transcript": "-"
+	},
+	{
+		"russian": "холм",
+		"english": "hill",
+		"transcript": "-"
+	},
+	{
+		"russian": "резерв",
+		"english": "reserve",
+		"transcript": "-"
+	},
+	{
+		"russian": "судья",
+		"english": "judge",
+		"transcript": "-"
+	},
+	{
+		"russian": "лист",
+		"english": "sheet",
+		"transcript": "-"
+	},
+	{
+		"russian": "тема",
+		"english": "topic",
+		"transcript": "-"
+	},
+	{
+		"russian": "зарплата",
+		"english": "salary",
+		"transcript": "-"
+	},
+	{
+		"russian": "теория",
+		"english": "theory",
+		"transcript": "-"
+	},
+	{
+		"russian": "количество",
+		"english": "quantity",
+		"transcript": "-"
+	},
+	{
+		"russian": "обзор",
+		"english": "survey",
+		"transcript": "-"
+	},
+	{
+		"russian": "традиция",
+		"english": "tradition",
+		"transcript": "-"
+	},
+	{
+		"russian": "зима",
+		"english": "winter",
+		"transcript": "-"
+	},
+	{
+		"russian": "деревня",
+		"english": "village",
+		"transcript": "-"
+	},
+	{
+		"russian": "общение",
+		"english": "communication",
+		"transcript": "-"
+	},
+	{
+		"russian": "бег",
+		"english": "run",
+		"transcript": "-"
+	},
+	{
+		"russian": "разница",
+		"english": "difference",
+		"transcript": "-"
+	},
+	{
+		"russian": "дорожное движение",
+		"english": "traffic",
+		"transcript": "-"
+	},
+	{
+		"russian": "вес",
+		"english": "weight",
+		"transcript": "-"
+	},
+	{
+		"russian": "сад",
+		"english": "garden",
+		"transcript": "-"
+	},
+	{
+		"russian": "автор",
+		"english": "author",
+		"transcript": "-"
+	},
+	{
+		"russian": "тема",
+		"english": "theme",
+		"transcript": "-"
+	},
+	{
+		"russian": "ответ",
+		"english": "response",
+		"transcript": "-"
+	},
+	{
+		"russian": "полиция",
+		"english": "police",
+		"transcript": "-"
+	},
+	{
+		"russian": "революция",
+		"english": "revolution",
+		"transcript": "-"
+	},
+	{
+		"russian": "граница",
+		"english": "border",
+		"transcript": "-"
+	},
+	{
+		"russian": "граница",
+		"english": "boundary",
+		"transcript": "-"
+	},
+	{
+		"russian": "полоса",
+		"english": "strip",
+		"transcript": "-"
+	},
+	{
+		"russian": "завтрак",
+		"english": "breakfast",
+		"transcript": "-"
+	},
+	{
+		"russian": "канал",
+		"english": "channel",
+		"transcript": "-"
+	},
+	{
+		"russian": "заявление",
+		"english": "statement",
+		"transcript": "-"
+	},
+	{
+		"russian": "радость",
+		"english": "joy",
+		"transcript": "-"
+	},
+	{
+		"russian": "столица",
+		"english": "capital",
+		"transcript": "-"
+	},
+	{
+		"russian": "учитель",
+		"english": "teacher",
+		"transcript": "-"
+	},
+	{
+		"russian": "здание",
+		"english": "building",
+		"transcript": "-"
+	},
+	{
+		"russian": "безопасность",
+		"english": "safety",
+		"transcript": "-"
+	},
+	{
+		"russian": "мужчина",
+		"english": "male",
+		"transcript": "-"
+	},
+	{
+		"russian": "палатка",
+		"english": "tent",
+		"transcript": "-"
+	},
+	{
+		"russian": "ошибка",
+		"english": "error",
+		"transcript": "-"
+	},
+	{
+		"russian": "напряжение",
+		"english": "stress",
+		"transcript": "-"
+	},
+	{
+		"russian": "открытие",
+		"english": "discovery",
+		"transcript": "-"
+	},
+	{
+		"russian": "слеза",
+		"english": "tear",
+		"transcript": "-"
+	},
+	{
+		"russian": "труба",
+		"english": "pipe",
+		"transcript": "-"
+	},
+	{
+		"russian": "оборудование",
+		"english": "equipment",
+		"transcript": "-"
+	},
+	{
+		"russian": "предложение",
+		"english": "suggestion",
+		"transcript": "-"
+	},
+	{
+		"russian": "память",
+		"english": "memory",
+		"transcript": "-"
+	},
+	{
+		"russian": "пассажир",
+		"english": "passenger",
+		"transcript": "-"
+	},
+	{
+		"russian": "реакция",
+		"english": "response",
+		"transcript": "-"
+	},
+	{
+		"russian": "местоположение",
+		"english": "location",
+		"transcript": "-"
+	},
+	{
+		"russian": "почва",
+		"english": "soil",
+		"transcript": "-"
+	},
+	{
+		"russian": "запрос",
+		"english": "request",
+		"transcript": "-"
+	},
+	{
+		"russian": "определение",
+		"english": "definition",
+		"transcript": "-"
+	},
+	{
+		"russian": "средство",
+		"english": "medium",
+		"transcript": "-"
+	},
+	{
+		"russian": "королевство",
+		"english": "kingdom",
+		"transcript": "-"
+	},
+	{
+		"russian": "колония",
+		"english": "colony",
+		"transcript": "-"
+	},
+	{
+		"russian": "просьба",
+		"english": "request",
+		"transcript": "-"
+	},
+	{
+		"russian": "поток",
+		"english": "stream",
+		"transcript": "-"
+	},
+	{
+		"russian": "масштаб",
+		"english": "scale",
+		"transcript": "-"
+	},
+	{
+		"russian": "вселенная",
+		"english": "universe",
+		"transcript": "-"
+	},
+	{
+		"russian": "дискуссия",
+		"english": "discussion",
+		"transcript": "-"
+	},
+	{
+		"russian": "увеличение",
+		"english": "increase",
+		"transcript": "-"
+	},
+	{
+		"russian": "вопросы",
+		"english": "matters",
+		"transcript": "-"
+	},
+	{
+		"russian": "безопасность",
+		"english": "security",
+		"transcript": "-"
+	},
+	{
+		"russian": "ремесло",
+		"english": "craft",
+		"transcript": "-"
+	},
+	{
+		"russian": "комедия",
+		"english": "comedy",
+		"transcript": "-"
+	},
+	{
+		"russian": "плотность",
+		"english": "density",
+		"transcript": "-"
+	},
+	{
+		"russian": "армия",
+		"english": "army",
+		"transcript": "-"
+	},
+	{
+		"russian": "доход",
+		"english": "income",
+		"transcript": "-"
+	},
+	{
+		"russian": "заголовок",
+		"english": "title",
+		"transcript": "-"
+	},
+	{
+		"russian": "ветер",
+		"english": "wind",
+		"transcript": "-"
+	},
+	{
+		"russian": "атака",
+		"english": "attack",
+		"transcript": "-"
+	},
+	{
+		"russian": "направление",
+		"english": "direction",
+		"transcript": "-"
+	},
+	{
+		"russian": "ссылка",
+		"english": "reference",
+		"transcript": "-"
+	},
+	{
+		"russian": "благодарность",
+		"english": "thanks",
+		"transcript": "-"
+	},
+	{
+		"russian": "внешность",
+		"english": "appearance",
+		"transcript": "-"
+	},
+	{
+		"russian": "качество",
+		"english": "quality",
+		"transcript": "-"
+	},
+	{
+		"russian": "рост",
+		"english": "height",
+		"transcript": "-"
+	},
+	{
+		"russian": "способность",
+		"english": "ability",
+		"transcript": "-"
+	},
+	{
+		"russian": "разрыв",
+		"english": "gap",
+		"transcript": "-"
+	},
+	{
+		"russian": "топливо",
+		"english": "fuel",
+		"transcript": "-"
+	},
+	{
+		"russian": "напрямую",
+		"english": "direct",
+		"transcript": "-"
+	},
+	{
+		"russian": "должность",
+		"english": "position",
+		"transcript": "-"
+	},
+	{
+		"russian": "палец",
+		"english": "finger",
+		"transcript": "-"
+	},
+	{
+		"russian": "бой",
+		"english": "fight",
+		"transcript": "-"
+	},
+	{
+		"russian": "ложь",
+		"english": "lie",
+		"transcript": "-"
+	},
+	{
+		"russian": "бить",
+		"english": "beat",
+		"transcript": "-"
+	},
+	{
+		"russian": "подняться",
+		"english": "rise",
+		"transcript": "-"
+	},
+	{
+		"russian": "молодой",
+		"english": "young",
+		"transcript": "-"
+	},
+	{
+		"russian": "давление",
+		"english": "pressure",
+		"transcript": "-"
+	},
+	{
+		"russian": "логика",
+		"english": "logic",
+		"transcript": "-"
+	},
+	{
+		"russian": "облегчение",
+		"english": "relief",
+		"transcript": "-"
+	},
+	{
+		"russian": "чувства",
+		"english": "feelings",
+		"transcript": "-"
+	},
+	{
+		"russian": "роман",
+		"english": "novel",
+		"transcript": "-"
+	},
+	{
+		"russian": "желание",
+		"english": "wish",
+		"transcript": "-"
+	},
+	{
+		"russian": "небо",
+		"english": "sky",
+		"transcript": "-"
+	},
+	{
+		"russian": "удовольствие",
+		"english": "joy",
+		"transcript": "-"
+	},
+	{
+		"russian": "дерево",
+		"english": "tree",
+		"transcript": "-"
+	},
+	{
+		"russian": "источник",
+		"english": "source",
+		"transcript": "-"
+	},
+	{
+		"russian": "изгиб",
+		"english": "curve",
+		"transcript": "-"
+	},
+	{
+		"russian": "том",
+		"english": "volume",
+		"transcript": "-"
+	},
+	{
+		"russian": "министр",
+		"english": "minister",
+		"transcript": "-"
+	},
+	{
+		"russian": "решение",
+		"english": "decision",
+		"transcript": "-"
+	},
+	{
+		"russian": "парк",
+		"english": "park",
+		"transcript": "-"
+	},
+	{
+		"russian": "брат",
+		"english": "brother",
+		"transcript": "-"
+	},
+	{
+		"russian": "тарелка",
+		"english": "plate",
+		"transcript": "-"
+	},
+	{
+		"russian": "передняя сторона",
+		"english": "front",
+		"transcript": "-"
+	},
+	{
+		"russian": "вера",
+		"english": "belief",
+		"transcript": "-"
+	},
+	{
+		"russian": "окно",
+		"english": "window",
+		"transcript": "-"
+	},
+	{
+		"russian": "хранить",
+		"english": "store",
+		"transcript": "-"
+	},
+	{
+		"russian": "поезд",
+		"english": "train",
+		"transcript": "-"
+	},
+	{
+		"russian": "сон",
+		"english": "sleep",
+		"transcript": "-"
+	},
+	{
+		"russian": "доказать",
+		"english": "prove",
+		"transcript": "-"
+	},
+	{
+		"russian": "одинокий",
+		"english": "lone",
+		"transcript": "-"
+	},
+	{
+		"russian": "нога",
+		"english": "leg",
+		"transcript": "-"
+	},
+	{
+		"russian": "упражнение",
+		"english": "exercise",
+		"transcript": "-"
+	},
+	{
+		"russian": "ловля",
+		"english": "catch",
+		"transcript": "-"
+	},
+	{
+		"russian": "гора",
+		"english": "mount",
+		"transcript": "-"
+	},
+	{
+		"russian": "панель",
+		"english": "board",
+		"transcript": "-"
+	},
+	{
+		"russian": "сидел",
+		"english": "sat",
+		"transcript": "-"
+	},
+	{
+		"russian": "написанный",
+		"english": "written",
+		"transcript": "-"
+	},
+	{
+		"russian": "дикий",
+		"english": "wild",
+		"transcript": "-"
+	},
+	{
+		"russian": "инструмент",
+		"english": "instrument",
+		"transcript": "-"
+	},
+	{
+		"russian": "хранится",
+		"english": "kept",
+		"transcript": "-"
+	},
+	{
+		"russian": "трава",
+		"english": "grass",
+		"transcript": "-"
+	},
+	{
+		"russian": "корова",
+		"english": "cow",
+		"transcript": "-"
+	},
+	{
+		"russian": "знак",
+		"english": "sign",
+		"transcript": "-"
+	},
+	{
+		"russian": "визит",
+		"english": "visit",
+		"transcript": "-"
+	},
+	{
+		"russian": "мягкий",
+		"english": "soft",
+		"transcript": "-"
+	},
+	{
+		"russian": "веселье",
+		"english": "fun",
+		"transcript": "-"
+	},
+	{
+		"russian": "яркий",
+		"english": "bright",
+		"transcript": "-"
+	},
+	{
+		"russian": "газ",
+		"english": "gas",
+		"transcript": "-"
+	},
+	{
+		"russian": "погода",
+		"english": "weather",
+		"transcript": "-"
+	},
+	{
+		"russian": "миллион",
+		"english": "million",
+		"transcript": "-"
+	},
+	{
+		"russian": "медведь",
+		"english": "bear",
+		"transcript": "-"
+	},
+	{
+		"russian": "финиш",
+		"english": "finish",
+		"transcript": "-"
+	},
+	{
+		"russian": "счастливый",
+		"english": "happy",
+		"transcript": "-"
+	},
+	{
+		"russian": "одевать",
+		"english": "clothe",
+		"transcript": "-"
+	},
+	{
+		"russian": "странный",
+		"english": "strange",
+		"transcript": "-"
+	},
+	{
+		"russian": "ушел",
+		"english": "gone",
+		"transcript": "-"
+	},
+	{
+		"russian": "торговля",
+		"english": "trade",
+		"transcript": "-"
+	},
+	{
+		"russian": "мелодия",
+		"english": "melody",
+		"transcript": "-"
+	},
+	{
+		"russian": "поездка",
+		"english": "trip",
+		"transcript": "-"
+	},
+	{
+		"russian": "офис",
+		"english": "office",
+		"transcript": "-"
+	},
+	{
+		"russian": "получать",
+		"english": "receive",
+		"transcript": "-"
+	},
+	{
+		"russian": "ряд",
+		"english": "row",
+		"transcript": "-"
+	},
+	{
+		"russian": "рот",
+		"english": "mouth",
+		"transcript": "-"
+	},
+	{
+		"russian": "точный",
+		"english": "exact",
+		"transcript": "-"
+	},
+	{
+		"russian": "символ",
+		"english": "symbol",
+		"transcript": "-"
+	},
+	{
+		"russian": "умереть",
+		"english": "die",
+		"transcript": "-"
+	},
+	{
+		"russian": "по крайней мере",
+		"english": "least",
+		"transcript": "-"
+	},
+	{
+		"russian": "беда",
+		"english": "trouble",
+		"transcript": "-"
+	},
+	{
+		"russian": "крик",
+		"english": "shout",
+		"transcript": "-"
+	},
+	{
+		"russian": "кроме",
+		"english": "except",
+		"transcript": "-"
+	},
+	{
+		"russian": "писал",
+		"english": "wrote",
+		"transcript": "-"
+	},
+	{
+		"russian": "семя",
+		"english": "seed",
+		"transcript": "-"
+	},
+	{
+		"russian": "тон",
+		"english": "tone",
+		"transcript": "-"
+	},
+	{
+		"russian": "присоединиться",
+		"english": "join",
+		"transcript": "-"
+	},
+	{
+		"russian": "предлагать",
+		"english": "suggest",
+		"transcript": "-"
+	},
+	{
+		"russian": "чистый",
+		"english": "clean",
+		"transcript": "-"
+	},
+	{
+		"russian": "леди",
+		"english": "lady",
+		"transcript": "-"
+	},
+	{
+		"russian": "двор",
+		"english": "yard",
+		"transcript": "-"
+	},
+	{
+		"russian": "поднятие",
+		"english": "rise",
+		"transcript": "-"
+	},
+	{
+		"russian": "плохо",
+		"english": "bad",
+		"transcript": "-"
+	},
+	{
+		"russian": "удар",
+		"english": "blow",
+		"transcript": "-"
+	},
+	{
+		"russian": "мас",
+		"english": "oil",
+		"transcript": "-"
+	},
+	{
+		"russian": "прикосновение",
+		"english": "touch",
+		"transcript": "-"
+	},
+	{
+		"russian": "рос",
+		"english": "grew",
+		"transcript": "-"
+	},
+	{
+		"russian": "провод",
+		"english": "wire",
+		"transcript": "-"
+	},
+	{
+		"russian": "потерянный",
+		"english": "lost",
+		"transcript": "-"
+	},
+	{
+		"russian": "коричневый",
+		"english": "brown",
+		"transcript": "-"
+	},
+	{
+		"russian": "носить",
+		"english": "wear",
+		"transcript": "-"
+	},
+	{
+		"russian": "равный",
+		"english": "equal",
+		"transcript": "-"
+	},
+	{
+		"russian": "отправленный",
+		"english": "sent",
+		"transcript": "-"
+	},
+	{
+		"russian": "выбирать",
+		"english": "choose",
+		"transcript": "-"
+	},
+	{
+		"russian": "упал",
+		"english": "fell",
+		"transcript": "-"
+	},
+	{
+		"russian": "подходить",
+		"english": "fit",
+		"transcript": "-"
+	},
+	{
+		"russian": "поток",
+		"english": "flow",
+		"transcript": "-"
+	},
+	{
+		"russian": "ярмарка",
+		"english": "fair",
+		"transcript": "-"
+	},
+	{
+		"russian": "собирать",
+		"english": "collect",
+		"transcript": "-"
+	},
+	{
+		"russian": "спасать",
+		"english": "save",
+		"transcript": "-"
+	},
+	{
+		"russian": "управление",
+		"english": "control",
+		"transcript": "-"
+	},
+	{
+		"russian": "десятичный",
+		"english": "decimal",
+		"transcript": "-"
+	},
+	{
+		"russian": "нежный",
+		"english": "gentle",
+		"transcript": "-"
+	},
+	{
+		"russian": "капитан",
+		"english": "captain",
+		"transcript": "-"
+	},
+	{
+		"russian": "отдельный",
+		"english": "separate",
+		"transcript": "-"
+	},
+	{
+		"russian": "трудный",
+		"english": "difficult",
+		"transcript": "-"
+	},
+	{
+		"russian": "доктор",
+		"english": "doctor",
+		"transcript": "-"
+	},
+	{
+		"russian": "пожалуйста",
+		"english": "please",
+		"transcript": "-"
+	},
+	{
+		"russian": "защищать",
+		"english": "protect",
+		"transcript": "-"
+	},
+	{
+		"russian": "полдень",
+		"english": "noon",
+		"transcript": "-"
+	},
+	{
+		"russian": "урожай",
+		"english": "crop",
+		"transcript": "-"
+	},
+	{
+		"russian": "современный",
+		"english": "modern",
+		"transcript": "-"
+	},
+	{
+		"russian": "элемент",
+		"english": "element",
+		"transcript": "-"
+	},
+	{
+		"russian": "удар",
+		"english": "hit",
+		"transcript": "-"
+	},
+	{
+		"russian": "вечеринка",
+		"english": "party",
+		"transcript": "-"
+	},
+	{
+		"russian": "поставка",
+		"english": "supply",
+		"transcript": "-"
+	},
+	{
+		"russian": "чей",
+		"english": "whose",
+		"transcript": "-"
+	},
+	{
+		"russian": "размещать",
+		"english": "locate",
+		"transcript": "-"
+	},
+	{
+		"russian": "насекомое",
+		"english": "insect",
+		"transcript": "-"
+	},
+	{
+		"russian": "пойманный",
+		"english": "caught",
+		"transcript": "-"
+	},
+	{
+		"russian": "период",
+		"english": "period",
+		"transcript": "-"
+	},
+	{
+		"russian": "указывать",
+		"english": "indicate",
+		"transcript": "-"
+	},
+	{
+		"russian": "говорил",
+		"english": "spoke",
+		"transcript": "-"
+	},
+	{
+		"russian": "атом",
+		"english": "atom",
+		"transcript": "-"
+	},
+	{
+		"russian": "человек",
+		"english": "human",
+		"transcript": "-"
+	},
+	{
+		"russian": "электрический",
+		"english": "electric",
+		"transcript": "-"
+	},
+	{
+		"russian": "ожидать",
+		"english": "expect",
+		"transcript": "-"
+	},
+	{
+		"russian": "сельскохозяйственные культуры",
+		"english": "crop",
+		"transcript": "-"
+	},
+	{
+		"russian": "танк",
+		"english": "tank",
+		"transcript": "-"
+	},
+	{
+		"russian": "плавать",
+		"english": "swim",
+		"transcript": "-"
+	},
+	{
+		"russian": "плакать",
+		"english": "cry",
+		"transcript": "-"
+	},
+	{
+		"russian": "темный",
+		"english": "dark",
+		"transcript": "-"
+	},
+	{
+		"russian": "ждать",
+		"english": "wait",
+		"transcript": "-"
+	},
+	{
+		"russian": "план",
+		"english": "plan",
+		"transcript": "-"
+	},
+	{
+		"russian": "остальное",
+		"english": "rest",
+		"transcript": "-"
+	},
+	{
+		"russian": "правильно",
+		"english": "correct",
+		"transcript": "-"
+	},
+	{
+		"russian": "в состоянии",
+		"english": "able",
+		"transcript": "-"
+	},
+	{
+		"russian": "фунт",
+		"english": "pound",
+		"transcript": "-"
+	},
+	{
+		"russian": "сделано",
+		"english": "done",
+		"transcript": "-"
+	},
+	{
+		"russian": "ездить на машине",
+		"english": "drive",
+		"transcript": "-"
+	},
+	{
+		"russian": "стоял",
+		"english": "stood",
+		"transcript": "-"
+	},
+	{
+		"russian": "содержать",
+		"english": "contain",
+		"transcript": "-"
+	},
+	{
+		"russian": "передний",
+		"english": "front",
+		"transcript": "-"
+	},
+	{
+		"russian": "учить",
+		"english": "teach",
+		"transcript": "-"
+	},
+	{
+		"russian": "неделя",
+		"english": "week",
+		"transcript": "-"
+	},
+	{
+		"russian": "финальный",
+		"english": "final",
+		"transcript": "-"
+	},
+	{
+		"russian": "дал",
+		"english": "gave",
+		"transcript": "-"
+	},
+	{
+		"russian": "зеленый",
+		"english": "green",
+		"transcript": "-"
+	},
+	{
+		"russian": "о",
+		"english": "oh",
+		"transcript": "-"
+	},
+	{
+		"russian": "быстрый",
+		"english": "quick",
+		"transcript": "-"
+	},
+	{
+		"russian": "развивать",
+		"english": "develop",
+		"transcript": "-"
+	},
+	{
+		"russian": "теплый",
+		"english": "warm",
+		"transcript": "-"
+	},
+	{
+		"russian": "свободный",
+		"english": "free",
+		"transcript": "-"
+	},
+	{
+		"russian": "минута",
+		"english": "minute",
+		"transcript": "-"
+	},
+	{
+		"russian": "сильный",
+		"english": "strong",
+		"transcript": "-"
+	},
+	{
+		"russian": "специальный",
+		"english": "special",
+		"transcript": "-"
+	},
+	{
+		"russian": "разум",
+		"english": "mind",
+		"transcript": "-"
+	},
+	{
+		"russian": "позади",
+		"english": "behind",
+		"transcript": "-"
+	},
+	{
+		"russian": "чистый",
+		"english": "clear",
+		"transcript": "-"
+	},
+	{
+		"russian": "хвост",
+		"english": "tail",
+		"transcript": "-"
+	},
+	{
+		"russian": "производить",
+		"english": "produce",
+		"transcript": "-"
+	},
+	{
+		"russian": "дюйм",
+		"english": "inch",
+		"transcript": "-"
+	},
+	{
+		"russian": "умножать",
+		"english": "multiply",
+		"transcript": "-"
+	},
+	{
+		"russian": "ничего",
+		"english": "nothing",
+		"transcript": "-"
+	},
+	{
+		"russian": "оставаться",
+		"english": "stay",
+		"transcript": "-"
+	},
+	{
+		"russian": "полный",
+		"english": "full",
+		"transcript": "-"
+	},
+	{
+		"russian": "голубой",
+		"english": "blue",
+		"transcript": "-"
+	},
+	{
+		"russian": "решать",
+		"english": "decide",
+		"transcript": "-"
+	},
+	{
+		"russian": "глубокий",
+		"english": "deep",
+		"transcript": "-"
+	},
+	{
+		"russian": "остров",
+		"english": "island",
+		"transcript": "-"
+	},
+	{
+		"russian": "еще",
+		"english": "yet",
+		"transcript": "-"
+	},
+	{
+		"russian": "занятый",
+		"english": "busy",
+		"transcript": "-"
+	},
+	{
+		"russian": "общий",
+		"english": "common",
+		"transcript": "-"
+	},
+	{
+		"russian": "золото",
+		"english": "gold",
+		"transcript": "-"
+	},
+	{
+		"russian": "возможный",
+		"english": "possible",
+		"transcript": "-"
+	},
+	{
+		"russian": "возраст",
+		"english": "age",
+		"transcript": "-"
+	},
+	{
+		"russian": "сухой",
+		"english": "dry",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивляться",
+		"english": "wonder",
+		"transcript": "-"
+	},
+	{
+		"russian": "смеяться",
+		"english": "laugh",
+		"transcript": "-"
+	},
+	{
+		"russian": "тысяча",
+		"english": "thousand",
+		"transcript": "-"
+	},
+	{
+		"russian": "назад",
+		"english": "ago",
+		"transcript": "-"
+	},
+	{
+		"russian": "бежал",
+		"english": "ran",
+		"transcript": "-"
+	},
+	{
+		"russian": "проверка",
+		"english": "check",
+		"transcript": "-"
+	},
+	{
+		"russian": "да",
+		"english": "yes",
+		"transcript": "-"
+	},
+	{
+		"russian": "крутой",
+		"english": "cool",
+		"transcript": "-"
+	},
+	{
+		"russian": "скучать",
+		"english": "miss",
+		"transcript": "-"
+	},
+	{
+		"russian": "принес",
+		"english": "brought",
+		"transcript": "-"
+	},
+	{
+		"russian": "тепло",
+		"english": "heat",
+		"transcript": "-"
+	},
+	{
+		"russian": "снег",
+		"english": "snow",
+		"transcript": "-"
+	},
+	{
+		"russian": "шина",
+		"english": "tire",
+		"transcript": "-"
+	},
+	{
+		"russian": "приносить",
+		"english": "bring",
+		"transcript": "-"
+	},
+	{
+		"russian": "заполнять",
+		"english": "fill",
+		"transcript": "-"
+	},
+	{
+		"russian": "восток",
+		"english": "east",
+		"transcript": "-"
+	},
+	{
+		"russian": "среди",
+		"english": "among",
+		"transcript": "-"
+	},
+	{
+		"russian": "великолепный",
+		"english": "grand",
+		"transcript": "-"
+	},
+	{
+		"russian": "тем не менее",
+		"english": "yet",
+		"transcript": "-"
+	},
+	{
+		"russian": "тяжелый",
+		"english": "heavy",
+		"transcript": "-"
+	},
+	{
+		"russian": "двигатель",
+		"english": "engine",
+		"transcript": "-"
+	},
+	{
+		"russian": "позиция",
+		"english": "position",
+		"transcript": "-"
+	},
+	{
+		"russian": "широкий",
+		"english": "wide",
+		"transcript": "-"
+	},
+	{
+		"russian": "парус",
+		"english": "sail",
+		"transcript": "-"
+	},
+	{
+		"russian": "доля",
+		"english": "fraction",
+		"transcript": "-"
+	},
+	{
+		"russian": "сидеть",
+		"english": "sit",
+		"transcript": "-"
+	},
+	{
+		"russian": "гонка",
+		"english": "race",
+		"transcript": "-"
+	},
+	{
+		"russian": "рельс",
+		"english": "rail",
+		"transcript": "-"
+	},
+	{
+		"russian": "говорить",
+		"english": "speak",
+		"transcript": "-"
+	},
+	{
+		"russian": "тропа",
+		"english": "path",
+		"transcript": "-"
+	},
+	{
+		"russian": "жидкость",
+		"english": "liquid",
+		"transcript": "-"
+	},
+	{
+		"russian": "бревно",
+		"english": "log",
+		"transcript": "-"
+	},
+	{
+		"russian": "имел в виду",
+		"english": "meant",
+		"transcript": "-"
+	},
+	{
+		"russian": "частное",
+		"english": "quotient",
+		"transcript": "-"
+	},
+	{
+		"russian": "зубы",
+		"english": "teeth",
+		"transcript": "-"
+	},
+	{
+		"russian": "ракушка",
+		"english": "shell",
+		"transcript": "-"
+	},
+	{
+		"russian": "горло",
+		"english": "throat",
+		"transcript": "-"
+	},
+	{
+		"russian": "маленький",
+		"english": "tiny",
+		"transcript": "-"
+	},
+	{
+		"russian": "взбираться",
+		"english": "climb",
+		"transcript": "-"
+	},
+	{
+		"russian": "прохладный",
+		"english": "cool",
+		"transcript": "-"
+	},
+	{
+		"russian": "бедный",
+		"english": "poor",
+		"transcript": "-"
+	},
+	{
+		"russian": "участок",
+		"english": "lot",
+		"transcript": "-"
+	},
+	{
+		"russian": "эксперимент",
+		"english": "experiment",
+		"transcript": "-"
+	},
+	{
+		"russian": "железо",
+		"english": "iron",
+		"transcript": "-"
+	},
+	{
+		"russian": "одиночный",
+		"english": "single",
+		"transcript": "-"
+	},
+	{
+		"russian": "палка",
+		"english": "stick",
+		"transcript": "-"
+	},
+	{
+		"russian": "плоский",
+		"english": "flat",
+		"transcript": "-"
+	},
+	{
+		"russian": "двадцать",
+		"english": "twenty",
+		"transcript": "-"
+	},
+	{
+		"russian": "кожа",
+		"english": "skin",
+		"transcript": "-"
+	},
+	{
+		"russian": "улыбка",
+		"english": "smile",
+		"transcript": "-"
+	},
+	{
+		"russian": "складка",
+		"english": "crease",
+		"transcript": "-"
+	},
+	{
+		"russian": "прыжок",
+		"english": "jump",
+		"transcript": "-"
+	},
+	{
+		"russian": "ребенок",
+		"english": "baby",
+		"transcript": "-"
+	},
+	{
+		"russian": "восемь",
+		"english": "eight",
+		"transcript": "-"
+	},
+	{
+		"russian": "встречаться",
+		"english": "meet",
+		"transcript": "-"
+	},
+	{
+		"russian": "корень",
+		"english": "root",
+		"transcript": "-"
+	},
+	{
+		"russian": "покупать",
+		"english": "buy",
+		"transcript": "-"
+	},
+	{
+		"russian": "поднимать",
+		"english": "raise",
+		"transcript": "-"
+	},
+	{
+		"russian": "решать",
+		"english": "solve",
+		"transcript": "-"
+	},
+	{
+		"russian": "металл",
+		"english": "metal",
+		"transcript": "-"
+	},
+	{
+		"russian": "толкать",
+		"english": "push",
+		"transcript": "-"
+	},
+	{
+		"russian": "семь",
+		"english": "seven",
+		"transcript": "-"
+	},
+	{
+		"russian": "абзац",
+		"english": "paragraph",
+		"transcript": "-"
+	}
+]

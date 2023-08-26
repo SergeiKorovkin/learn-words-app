@@ -1,0 +1,2042 @@
+[
+	{
+		"russian": "хороший",
+		"english": "good",
+		"transcript": "-"
+	},
+	{
+		"russian": "новый",
+		"english": "new",
+		"transcript": "-"
+	},
+	{
+		"russian": "первый",
+		"english": "first",
+		"transcript": "-"
+	},
+	{
+		"russian": "последний",
+		"english": "last",
+		"transcript": "-"
+	},
+	{
+		"russian": "длинный",
+		"english": "long",
+		"transcript": "-"
+	},
+	{
+		"russian": "великий",
+		"english": "great",
+		"transcript": "-"
+	},
+	{
+		"russian": "маленький",
+		"english": "little",
+		"transcript": "-"
+	},
+	{
+		"russian": "собственный",
+		"english": "own",
+		"transcript": "-"
+	},
+	{
+		"russian": "другой",
+		"english": "other",
+		"transcript": "-"
+	},
+	{
+		"russian": "старый",
+		"english": "old",
+		"transcript": "-"
+	},
+	{
+		"russian": "правильный",
+		"english": "right",
+		"transcript": "-"
+	},
+	{
+		"russian": "большой",
+		"english": "big",
+		"transcript": "-"
+	},
+	{
+		"russian": "высокий",
+		"english": "high",
+		"transcript": "-"
+	},
+	{
+		"russian": "разный",
+		"english": "different",
+		"transcript": "-"
+	},
+	{
+		"russian": "малый",
+		"english": "small",
+		"transcript": "-"
+	},
+	{
+		"russian": "крупный",
+		"english": "large",
+		"transcript": "-"
+	},
+	{
+		"russian": "следующий",
+		"english": "next",
+		"transcript": "-"
+	},
+	{
+		"russian": "ранний",
+		"english": "early",
+		"transcript": "-"
+	},
+	{
+		"russian": "молодой",
+		"english": "young",
+		"transcript": "-"
+	},
+	{
+		"russian": "важный",
+		"english": "important",
+		"transcript": "-"
+	},
+	{
+		"russian": "немногие",
+		"english": "few",
+		"transcript": "-"
+	},
+	{
+		"russian": "общественный",
+		"english": "public",
+		"transcript": "-"
+	},
+	{
+		"russian": "плохой",
+		"english": "bad",
+		"transcript": "-"
+	},
+	{
+		"russian": "тот же",
+		"english": "same",
+		"transcript": "-"
+	},
+	{
+		"russian": "способный",
+		"english": "able",
+		"transcript": "-"
+	},
+	{
+		"russian": "местный",
+		"english": "local",
+		"transcript": "-"
+	},
+	{
+		"russian": "уверенный",
+		"english": "sure",
+		"transcript": "-"
+	},
+	{
+		"russian": "лучше",
+		"english": "better",
+		"transcript": "-"
+	},
+	{
+		"russian": "общий",
+		"english": "general",
+		"transcript": "-"
+	},
+	{
+		"russian": "конкретный",
+		"english": "specific",
+		"transcript": "-"
+	},
+	{
+		"russian": "достаточно",
+		"english": "enough",
+		"transcript": "-"
+	},
+	{
+		"russian": "долго",
+		"english": "long",
+		"transcript": "-"
+	},
+	{
+		"russian": "реальный",
+		"english": "real",
+		"transcript": "-"
+	},
+	{
+		"russian": "лучший",
+		"english": "best",
+		"transcript": "-"
+	},
+	{
+		"russian": "несколько",
+		"english": "several",
+		"transcript": "-"
+	},
+	{
+		"russian": "основной",
+		"english": "major",
+		"transcript": "-"
+	},
+	{
+		"russian": "горячий",
+		"english": "hot",
+		"transcript": "-"
+	},
+	{
+		"russian": "мертвый",
+		"english": "dead",
+		"transcript": "-"
+	},
+	{
+		"russian": "центральный",
+		"english": "central",
+		"transcript": "-"
+	},
+	{
+		"russian": "счастливый",
+		"english": "happy",
+		"transcript": "-"
+	},
+	{
+		"russian": "серьезный",
+		"english": "serious",
+		"transcript": "-"
+	},
+	{
+		"russian": "готовый",
+		"english": "ready",
+		"transcript": "-"
+	},
+	{
+		"russian": "простой",
+		"english": "simple",
+		"transcript": "-"
+	},
+	{
+		"russian": "левый",
+		"english": "left",
+		"transcript": "-"
+	},
+	{
+		"russian": "физический",
+		"english": "physical",
+		"transcript": "-"
+	},
+	{
+		"russian": "генеральный",
+		"english": "general",
+		"transcript": "-"
+	},
+	{
+		"russian": "экологический",
+		"english": "environmental",
+		"transcript": "-"
+	},
+	{
+		"russian": "финансовый",
+		"english": "financial",
+		"transcript": "-"
+	},
+	{
+		"russian": "голубой",
+		"english": "blue",
+		"transcript": "-"
+	},
+	{
+		"russian": "демократический",
+		"english": "democratic",
+		"transcript": "-"
+	},
+	{
+		"russian": "темный",
+		"english": "dark",
+		"transcript": "-"
+	},
+	{
+		"russian": "различный",
+		"english": "various",
+		"transcript": "-"
+	},
+	{
+		"russian": "весь",
+		"english": "entire",
+		"transcript": "-"
+	},
+	{
+		"russian": "близкий",
+		"english": "close",
+		"transcript": "-"
+	},
+	{
+		"russian": "законный",
+		"english": "legal",
+		"transcript": "-"
+	},
+	{
+		"russian": "религиозный",
+		"english": "religious",
+		"transcript": "-"
+	},
+	{
+		"russian": "холодный",
+		"english": "cold",
+		"transcript": "-"
+	},
+	{
+		"russian": "окончательный",
+		"english": "final",
+		"transcript": "-"
+	},
+	{
+		"russian": "главный",
+		"english": "main",
+		"transcript": "-"
+	},
+	{
+		"russian": "зеленый",
+		"english": "green",
+		"transcript": "-"
+	},
+	{
+		"russian": "приятный",
+		"english": "nice",
+		"transcript": "-"
+	},
+	{
+		"russian": "огромный",
+		"english": "huge",
+		"transcript": "-"
+	},
+	{
+		"russian": "популярный",
+		"english": "popular",
+		"transcript": "-"
+	},
+	{
+		"russian": "традиционный",
+		"english": "traditional",
+		"transcript": "-"
+	},
+	{
+		"russian": "культурный",
+		"english": "cultural",
+		"transcript": "-"
+	},
+	{
+		"russian": "широкий",
+		"english": "wide",
+		"transcript": "-"
+	},
+	{
+		"russian": "особенный",
+		"english": "particular",
+		"transcript": "-"
+	},
+	{
+		"russian": "общий",
+		"english": "common",
+		"transcript": "-"
+	},
+	{
+		"russian": "бедный",
+		"english": "poor",
+		"transcript": "-"
+	},
+	{
+		"russian": "другое",
+		"english": "other",
+		"transcript": "-"
+	},
+	{
+		"russian": "мощный",
+		"english": "powerful",
+		"transcript": "-"
+	},
+	{
+		"russian": "заинтересованный",
+		"english": "interested",
+		"transcript": "-"
+	},
+	{
+		"russian": "ответственный",
+		"english": "responsible",
+		"transcript": "-"
+	},
+	{
+		"russian": "регулярный",
+		"english": "regular",
+		"transcript": "-"
+	},
+	{
+		"russian": "возможный",
+		"english": "possible",
+		"transcript": "-"
+	},
+	{
+		"russian": "легкий",
+		"english": "light",
+		"transcript": "-"
+	},
+	{
+		"russian": "легко",
+		"english": "easy",
+		"transcript": "-"
+	},
+	{
+		"russian": "открытый",
+		"english": "open",
+		"transcript": "-"
+	},
+	{
+		"russian": "красный",
+		"english": "red",
+		"transcript": "-"
+	},
+	{
+		"russian": "трудный",
+		"english": "difficult",
+		"transcript": "-"
+	},
+	{
+		"russian": "доступный",
+		"english": "available",
+		"transcript": "-"
+	},
+	{
+		"russian": "вероятно",
+		"english": "likely",
+		"transcript": "-"
+	},
+	{
+		"russian": "короткий",
+		"english": "short",
+		"transcript": "-"
+	},
+	{
+		"russian": "одинокий",
+		"english": "single",
+		"transcript": "-"
+	},
+	{
+		"russian": "медицинский",
+		"english": "medical",
+		"transcript": "-"
+	},
+	{
+		"russian": "текущий",
+		"english": "current",
+		"transcript": "-"
+	},
+	{
+		"russian": "неправильный",
+		"english": "wrong",
+		"transcript": "-"
+	},
+	{
+		"russian": "частный",
+		"english": "private",
+		"transcript": "-"
+	},
+	{
+		"russian": "прошлое",
+		"english": "past",
+		"transcript": "-"
+	},
+	{
+		"russian": "иностранный",
+		"english": "foreign",
+		"transcript": "-"
+	},
+	{
+		"russian": "прекрасный",
+		"english": "fine",
+		"transcript": "-"
+	},
+	{
+		"russian": "обычный",
+		"english": "common",
+		"transcript": "-"
+	},
+	{
+		"russian": "естественный",
+		"english": "natural",
+		"transcript": "-"
+	},
+	{
+		"russian": "значимый",
+		"english": "significant",
+		"transcript": "-"
+	},
+	{
+		"russian": "похожий",
+		"english": "similar",
+		"transcript": "-"
+	},
+	{
+		"russian": "стоимость",
+		"english": "worth",
+		"transcript": "-"
+	},
+	{
+		"russian": "необходимый",
+		"english": "necessary",
+		"transcript": "-"
+	},
+	{
+		"russian": "острый",
+		"english": "sharp",
+		"transcript": "-"
+	},
+	{
+		"russian": "соответствующий",
+		"english": "appropriate",
+		"transcript": "-"
+	},
+	{
+		"russian": "электрический",
+		"english": "electric",
+		"transcript": "-"
+	},
+	{
+		"russian": "дорогой",
+		"english": "expensive",
+		"transcript": "-"
+	},
+	{
+		"russian": "способный",
+		"english": "capable",
+		"transcript": "-"
+	},
+	{
+		"russian": "быстрый",
+		"english": "fast",
+		"transcript": "-"
+	},
+	{
+		"russian": "дикий",
+		"english": "wild",
+		"transcript": "-"
+	},
+	{
+		"russian": "одинокий",
+		"english": "lonely",
+		"transcript": "-"
+	},
+	{
+		"russian": "тонкий",
+		"english": "thin",
+		"transcript": "-"
+	},
+	{
+		"russian": "толстый",
+		"english": "thick",
+		"transcript": "-"
+	},
+	{
+		"russian": "практичный",
+		"english": "practical",
+		"transcript": "-"
+	},
+	{
+		"russian": "особенный",
+		"english": "special",
+		"transcript": "-"
+	},
+	{
+		"russian": "красивый",
+		"english": "beautiful",
+		"transcript": "-"
+	},
+	{
+		"russian": "честный",
+		"english": "honest",
+		"transcript": "-"
+	},
+	{
+		"russian": "коричневый",
+		"english": "brown",
+		"transcript": "-"
+	},
+	{
+		"russian": "дешевый",
+		"english": "cheap",
+		"transcript": "-"
+	},
+	{
+		"russian": "глубокий",
+		"english": "deep",
+		"transcript": "-"
+	},
+	{
+		"russian": "объективный",
+		"english": "objective",
+		"transcript": "-"
+	},
+	{
+		"russian": "безопасный",
+		"english": "secure",
+		"transcript": "-"
+	},
+	{
+		"russian": "худой",
+		"english": "thin",
+		"transcript": "-"
+	},
+	{
+		"russian": "химический",
+		"english": "chemical",
+		"transcript": "-"
+	},
+	{
+		"russian": "крутой",
+		"english": "cool",
+		"transcript": "-"
+	},
+	{
+		"russian": "профессиональный",
+		"english": "professional",
+		"transcript": "-"
+	},
+	{
+		"russian": "в форме",
+		"english": "fit",
+		"transcript": "-"
+	},
+	{
+		"russian": "финальный",
+		"english": "final",
+		"transcript": "-"
+	},
+	{
+		"russian": "чудесный",
+		"english": "lovely",
+		"transcript": "-"
+	},
+	{
+		"russian": "обычный",
+		"english": "usual",
+		"transcript": "-"
+	},
+	{
+		"russian": "последний",
+		"english": "latter",
+		"transcript": "-"
+	},
+	{
+		"russian": "осведомленный",
+		"english": "aware",
+		"transcript": "-"
+	},
+	{
+		"russian": "многие",
+		"english": "many",
+		"transcript": "-"
+	},
+	{
+		"russian": "сухой",
+		"english": "dry",
+		"transcript": "-"
+	},
+	{
+		"russian": "исторический",
+		"english": "historical",
+		"transcript": "-"
+	},
+	{
+		"russian": "голый",
+		"english": "bare",
+		"transcript": "-"
+	},
+	{
+		"russian": "частый",
+		"english": "frequent",
+		"transcript": "-"
+	},
+	{
+		"russian": "черный",
+		"english": "black",
+		"transcript": "-"
+	},
+	{
+		"russian": "долгосрочный",
+		"english": "long-term",
+		"transcript": "-"
+	},
+	{
+		"russian": "средний",
+		"english": "average",
+		"transcript": "-"
+	},
+	{
+		"russian": "яркий",
+		"english": "bright",
+		"transcript": "-"
+	},
+	{
+		"russian": "широкий",
+		"english": "broad",
+		"transcript": "-"
+	},
+	{
+		"russian": "удобный",
+		"english": "comfortable",
+		"transcript": "-"
+	},
+	{
+		"russian": "богатый",
+		"english": "rich",
+		"transcript": "-"
+	},
+	{
+		"russian": "теплый",
+		"english": "warm",
+		"transcript": "-"
+	},
+	{
+		"russian": "тяжелый",
+		"english": "heavy",
+		"transcript": "-"
+	},
+	{
+		"russian": "ценный",
+		"english": "valuable",
+		"transcript": "-"
+	},
+	{
+		"russian": "правильный",
+		"english": "correct",
+		"transcript": "-"
+	},
+	{
+		"russian": "ведущий",
+		"english": "leading",
+		"transcript": "-"
+	},
+	{
+		"russian": "медленный",
+		"english": "slow",
+		"transcript": "-"
+	},
+	{
+		"russian": "чистый",
+		"english": "clean",
+		"transcript": "-"
+	},
+	{
+		"russian": "свежий",
+		"english": "fresh",
+		"transcript": "-"
+	},
+	{
+		"russian": "нормальный",
+		"english": "normal",
+		"transcript": "-"
+	},
+	{
+		"russian": "секретный",
+		"english": "secret",
+		"transcript": "-"
+	},
+	{
+		"russian": "жесткий",
+		"english": "tough",
+		"transcript": "-"
+	},
+	{
+		"russian": "универсальный",
+		"english": "universal",
+		"transcript": "-"
+	},
+	{
+		"russian": "превосходный",
+		"english": "superior",
+		"transcript": "-"
+	},
+	{
+		"russian": "устойчивый",
+		"english": "steady",
+		"transcript": "-"
+	},
+	{
+		"russian": "классический",
+		"english": "classic",
+		"transcript": "-"
+	},
+	{
+		"russian": "итоговый",
+		"english": "final",
+		"transcript": "-"
+	},
+	{
+		"russian": "в целом",
+		"english": "overall",
+		"transcript": "-"
+	},
+	{
+		"russian": "постоянный",
+		"english": "constant",
+		"transcript": "-"
+	},
+	{
+		"russian": "умный",
+		"english": "intelligent",
+		"transcript": "-"
+	},
+	{
+		"russian": "сильный",
+		"english": "strong",
+		"transcript": "-"
+	},
+	{
+		"russian": "глобальный",
+		"english": "global",
+		"transcript": "-"
+	},
+	{
+		"russian": "духовный",
+		"english": "spiritual",
+		"transcript": "-"
+	},
+	{
+		"russian": "музыкальный",
+		"english": "musical",
+		"transcript": "-"
+	},
+	{
+		"russian": "фактический",
+		"english": "actual",
+		"transcript": "-"
+	},
+	{
+		"russian": "невероятный",
+		"english": "incredible",
+		"transcript": "-"
+	},
+	{
+		"russian": "массивный",
+		"english": "massive",
+		"transcript": "-"
+	},
+	{
+		"russian": "редкий",
+		"english": "rare",
+		"transcript": "-"
+	},
+	{
+		"russian": "замечательный",
+		"english": "remarkable",
+		"transcript": "-"
+	},
+	{
+		"russian": "опасный",
+		"english": "dangerous",
+		"transcript": "-"
+	},
+	{
+		"russian": "сломанный",
+		"english": "broken",
+		"transcript": "-"
+	},
+	{
+		"russian": "внезапный",
+		"english": "sudden",
+		"transcript": "-"
+	},
+	{
+		"russian": "успешный",
+		"english": "successful",
+		"transcript": "-"
+	},
+	{
+		"russian": "положительный",
+		"english": "positive",
+		"transcript": "-"
+	},
+	{
+		"russian": "гражданский",
+		"english": "civil",
+		"transcript": "-"
+	},
+	{
+		"russian": "промышленный",
+		"english": "industrial",
+		"transcript": "-"
+	},
+	{
+		"russian": "смешанный",
+		"english": "mixed",
+		"transcript": "-"
+	},
+	{
+		"russian": "предыдущий",
+		"english": "previous",
+		"transcript": "-"
+	},
+	{
+		"russian": "всего",
+		"english": "total",
+		"transcript": "-"
+	},
+	{
+		"russian": "первостепенный",
+		"english": "prime",
+		"transcript": "-"
+	},
+	{
+		"russian": "очевидный",
+		"english": "obvious",
+		"transcript": "-"
+	},
+	{
+		"russian": "дружелюбный",
+		"english": "friendly",
+		"transcript": "-"
+	},
+	{
+		"russian": "эффективный",
+		"english": "efficient",
+		"transcript": "-"
+	},
+	{
+		"russian": "ежедневно",
+		"english": "daily",
+		"transcript": "-"
+	},
+	{
+		"russian": "сырой",
+		"english": "raw",
+		"transcript": "-"
+	},
+	{
+		"russian": "общий",
+		"english": "shared",
+		"transcript": "-"
+	},
+	{
+		"russian": "личный",
+		"english": "personal",
+		"transcript": "-"
+	},
+	{
+		"russian": "мобильный",
+		"english": "mobile",
+		"transcript": "-"
+	},
+	{
+		"russian": "политический",
+		"english": "political",
+		"transcript": "-"
+	},
+	{
+		"russian": "модифицированный",
+		"english": "modified",
+		"transcript": "-"
+	},
+	{
+		"russian": "идеальный",
+		"english": "perfect",
+		"transcript": "-"
+	},
+	{
+		"russian": "предназначенный",
+		"english": "intended",
+		"transcript": "-"
+	},
+	{
+		"russian": "всесторонний",
+		"english": "comprehensive",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивительный",
+		"english": "amazing",
+		"transcript": "-"
+	},
+	{
+		"russian": "простой",
+		"english": "plain",
+		"transcript": "-"
+	},
+	{
+		"russian": "огромный",
+		"english": "vast",
+		"transcript": "-"
+	},
+	{
+		"russian": "взрослый",
+		"english": "adult",
+		"transcript": "-"
+	},
+	{
+		"russian": "подробный",
+		"english": "detailed",
+		"transcript": "-"
+	},
+	{
+		"russian": "конкретный",
+		"english": "concrete",
+		"transcript": "-"
+	},
+	{
+		"russian": "крошечный",
+		"english": "tiny",
+		"transcript": "-"
+	},
+	{
+		"russian": "тихий",
+		"english": "silent",
+		"transcript": "-"
+	},
+	{
+		"russian": "искусственный",
+		"english": "artificial",
+		"transcript": "-"
+	},
+	{
+		"russian": "сладкий",
+		"english": "sweet",
+		"transcript": "-"
+	},
+	{
+		"russian": "узкий",
+		"english": "narrow",
+		"transcript": "-"
+	},
+	{
+		"russian": "верхний",
+		"english": "upper",
+		"transcript": "-"
+	},
+	{
+		"russian": "случайный",
+		"english": "occasional",
+		"transcript": "-"
+	},
+	{
+		"russian": "громкий",
+		"english": "loud",
+		"transcript": "-"
+	},
+	{
+		"russian": "надежный",
+		"english": "reliable",
+		"transcript": "-"
+	},
+	{
+		"russian": "впечатляющий",
+		"english": "impressive",
+		"transcript": "-"
+	},
+	{
+		"russian": "знакомый",
+		"english": "familiar",
+		"transcript": "-"
+	},
+	{
+		"russian": "уместный",
+		"english": "appropriate",
+		"transcript": "-"
+	},
+	{
+		"russian": "рискованный",
+		"english": "risky",
+		"transcript": "-"
+	},
+	{
+		"russian": "прошлый",
+		"english": "past",
+		"transcript": "-"
+	},
+	{
+		"russian": "светлый",
+		"english": "bright",
+		"transcript": "-"
+	},
+	{
+		"russian": "пожилой",
+		"english": "elderly",
+		"transcript": "-"
+	},
+	{
+		"russian": "доминирующий",
+		"english": "dominant",
+		"transcript": "-"
+	},
+	{
+		"russian": "второстепенный",
+		"english": "secondary",
+		"transcript": "-"
+	},
+	{
+		"russian": "любопытный",
+		"english": "curious",
+		"transcript": "-"
+	},
+	{
+		"russian": "полезный",
+		"english": "useful",
+		"transcript": "-"
+	},
+	{
+		"russian": "сложный",
+		"english": "complex",
+		"transcript": "-"
+	},
+	{
+		"russian": "чувствительный",
+		"english": "sensitive",
+		"transcript": "-"
+	},
+	{
+		"russian": "свободный",
+		"english": "loose",
+		"transcript": "-"
+	},
+	{
+		"russian": "краткосрочный",
+		"english": "short-term",
+		"transcript": "-"
+	},
+	{
+		"russian": "тихий",
+		"english": "quiet",
+		"transcript": "-"
+	},
+	{
+		"russian": "блестящий",
+		"english": "brilliant",
+		"transcript": "-"
+	},
+	{
+		"russian": "абсолютный",
+		"english": "absolute",
+		"transcript": "-"
+	},
+	{
+		"russian": "оскорбительный",
+		"english": "offensive",
+		"transcript": "-"
+	},
+	{
+		"russian": "удаленный",
+		"english": "remote",
+		"transcript": "-"
+	},
+	{
+		"russian": "полный",
+		"english": "complete",
+		"transcript": "-"
+	},
+	{
+		"russian": "элегантный",
+		"english": "elegant",
+		"transcript": "-"
+	},
+	{
+		"russian": "видимый",
+		"english": "visible",
+		"transcript": "-"
+	},
+	{
+		"russian": "отрицательный",
+		"english": "negative",
+		"transcript": "-"
+	},
+	{
+		"russian": "соответствующий",
+		"english": "respective",
+		"transcript": "-"
+	},
+	{
+		"russian": "расплывчатый",
+		"english": "vague",
+		"transcript": "-"
+	},
+	{
+		"russian": "плавающий",
+		"english": "floating",
+		"transcript": "-"
+	},
+	{
+		"russian": "щедрый",
+		"english": "generous",
+		"transcript": "-"
+	},
+	{
+		"russian": "жестокий",
+		"english": "cruel",
+		"transcript": "-"
+	},
+	{
+		"russian": "модный",
+		"english": "fashionable",
+		"transcript": "-"
+	},
+	{
+		"russian": "причинный",
+		"english": "causal",
+		"transcript": "-"
+	},
+	{
+		"russian": "довольный",
+		"english": "content",
+		"transcript": "-"
+	},
+	{
+		"russian": "терпеливый",
+		"english": "patient",
+		"transcript": "-"
+	},
+	{
+		"russian": "активный",
+		"english": "active",
+		"transcript": "-"
+	},
+	{
+		"russian": "временный",
+		"english": "temporary",
+		"transcript": "-"
+	},
+	{
+		"russian": "инновационный",
+		"english": "innovative",
+		"transcript": "-"
+	},
+	{
+		"russian": "случайный",
+		"english": "casual",
+		"transcript": "-"
+	},
+	{
+		"russian": "интенсивный",
+		"english": "intense",
+		"transcript": "-"
+	},
+	{
+		"russian": "яркий",
+		"english": "vibrant",
+		"transcript": "-"
+	},
+	{
+		"russian": "уникальный",
+		"english": "unique",
+		"transcript": "-"
+	},
+	{
+		"russian": "фундаментальный",
+		"english": "fundamental",
+		"transcript": "-"
+	},
+	{
+		"russian": "зрелый",
+		"english": "mature",
+		"transcript": "-"
+	},
+	{
+		"russian": "колониальный",
+		"english": "colonial",
+		"transcript": "-"
+	},
+	{
+		"russian": "амбициозный",
+		"english": "ambitious",
+		"transcript": "-"
+	},
+	{
+		"russian": "злой",
+		"english": "evil",
+		"transcript": "-"
+	},
+	{
+		"russian": "магнитный",
+		"english": "magnetic",
+		"transcript": "-"
+	},
+	{
+		"russian": "решительный",
+		"english": "drastic",
+		"transcript": "-"
+	},
+	{
+		"russian": "ужасный",
+		"english": "horrible",
+		"transcript": "-"
+	},
+	{
+		"russian": "удовлетворенный",
+		"english": "satisfied",
+		"transcript": "-"
+	},
+	{
+		"russian": "благодарный",
+		"english": "grateful",
+		"transcript": "-"
+	},
+	{
+		"russian": "отличный",
+		"english": "distinct",
+		"transcript": "-"
+	},
+	{
+		"russian": "изысканный",
+		"english": "sophisticated",
+		"transcript": "-"
+	},
+	{
+		"russian": "выдающийся",
+		"english": "remarkable",
+		"transcript": "-"
+	},
+	{
+		"russian": "нейтральный",
+		"english": "neutral",
+		"transcript": "-"
+	},
+	{
+		"russian": "современный",
+		"english": "contemporary",
+		"transcript": "-"
+	},
+	{
+		"russian": "фантазийный",
+		"english": "fancy",
+		"transcript": "-"
+	},
+	{
+		"russian": "включительный",
+		"english": "inclusive",
+		"transcript": "-"
+	},
+	{
+		"russian": "президентский",
+		"english": "presidential",
+		"transcript": "-"
+	},
+	{
+		"russian": "точный",
+		"english": "precise",
+		"transcript": "-"
+	},
+	{
+		"russian": "озабоченный",
+		"english": "anxious",
+		"transcript": "-"
+	},
+	{
+		"russian": "структурный",
+		"english": "structural",
+		"transcript": "-"
+	},
+	{
+		"russian": "жилой",
+		"english": "residential",
+		"transcript": "-"
+	},
+	{
+		"russian": "нравственный",
+		"english": "moral",
+		"transcript": "-"
+	},
+	{
+		"russian": "бледный",
+		"english": "pale",
+		"transcript": "-"
+	},
+	{
+		"russian": "жизненно важный",
+		"english": "vital",
+		"transcript": "-"
+	},
+	{
+		"russian": "настоящий",
+		"english": "genuine",
+		"transcript": "-"
+	},
+	{
+		"russian": "отличный",
+		"english": "excellent",
+		"transcript": "-"
+	},
+	{
+		"russian": "формальный",
+		"english": "formal",
+		"transcript": "-"
+	},
+	{
+		"russian": "космический",
+		"english": "cosmic",
+		"transcript": "-"
+	},
+	{
+		"russian": "динамический",
+		"english": "dynamic",
+		"transcript": "-"
+	},
+	{
+		"russian": "случайный",
+		"english": "random",
+		"transcript": "-"
+	},
+	{
+		"russian": "срочный",
+		"english": "urgent",
+		"transcript": "-"
+	},
+	{
+		"russian": "чистый",
+		"english": "sheer",
+		"transcript": "-"
+	},
+	{
+		"russian": "внутренний",
+		"english": "interior",
+		"transcript": "-"
+	},
+	{
+		"russian": "рутинный",
+		"english": "routine",
+		"transcript": "-"
+	},
+	{
+		"russian": "ключевой",
+		"english": "crucial",
+		"transcript": "-"
+	},
+	{
+		"russian": "радикальный",
+		"english": "radical",
+		"transcript": "-"
+	},
+	{
+		"russian": "логический",
+		"english": "logical",
+		"transcript": "-"
+	},
+	{
+		"russian": "исторический",
+		"english": "historic",
+		"transcript": "-"
+	},
+	{
+		"russian": "скромный",
+		"english": "modest",
+		"transcript": "-"
+	},
+	{
+		"russian": "острый",
+		"english": "acute",
+		"transcript": "-"
+	},
+	{
+		"russian": "статичный",
+		"english": "static",
+		"transcript": "-"
+	},
+	{
+		"russian": "ироничный",
+		"english": "ironic",
+		"transcript": "-"
+	},
+	{
+		"russian": "верный",
+		"english": "faithful",
+		"transcript": "-"
+	},
+	{
+		"russian": "изолированный",
+		"english": "isolated",
+		"transcript": "-"
+	},
+	{
+		"russian": "общий",
+		"english": "generic",
+		"transcript": "-"
+	},
+	{
+		"russian": "благоприятный",
+		"english": "favorable",
+		"transcript": "-"
+	},
+	{
+		"russian": "странный",
+		"english": "weird",
+		"transcript": "-"
+	},
+	{
+		"russian": "этичный",
+		"english": "ethical",
+		"transcript": "-"
+	},
+	{
+		"russian": "цифровой",
+		"english": "digital",
+		"transcript": "-"
+	},
+	{
+		"russian": "настоятельный",
+		"english": "urgent",
+		"transcript": "-"
+	},
+	{
+		"russian": "гладкий",
+		"english": "smooth",
+		"transcript": "-"
+	},
+	{
+		"russian": "корпоративный",
+		"english": "corporate",
+		"transcript": "-"
+	},
+	{
+		"russian": "интегрированный",
+		"english": "integrated",
+		"transcript": "-"
+	},
+	{
+		"russian": "удивленный",
+		"english": "surprised",
+		"transcript": "-"
+	},
+	{
+		"russian": "горький",
+		"english": "bitter",
+		"transcript": "-"
+	},
+	{
+		"russian": "гибкий",
+		"english": "flexible",
+		"transcript": "-"
+	},
+	{
+		"russian": "горизонтальный",
+		"english": "horizontal",
+		"transcript": "-"
+	},
+	{
+		"russian": "нежный",
+		"english": "tender",
+		"transcript": "-"
+	},
+	{
+		"russian": "великий",
+		"english": "grand",
+		"transcript": "-"
+	},
+	{
+		"russian": "густой",
+		"english": "dense",
+		"transcript": "-"
+	},
+	{
+		"russian": "бодрствующий",
+		"english": "awake",
+		"transcript": "-"
+	},
+	{
+		"russian": "гражданский",
+		"english": "civic",
+		"transcript": "-"
+	},
+	{
+		"russian": "мокрый",
+		"english": "wet",
+		"transcript": "-"
+	},
+	{
+		"russian": "стройный",
+		"english": "slim",
+		"transcript": "-"
+	},
+	{
+		"russian": "невинный",
+		"english": "innocent",
+		"transcript": "-"
+	},
+	{
+		"russian": "прямой",
+		"english": "straight",
+		"transcript": "-"
+	},
+	{
+		"russian": "розовый",
+		"english": "pink",
+		"transcript": "-"
+	},
+	{
+		"russian": "смелый",
+		"english": "brave",
+		"transcript": "-"
+	},
+	{
+		"russian": "пустой",
+		"english": "empty",
+		"transcript": "-"
+	},
+	{
+		"russian": "виртуальный",
+		"english": "virtual",
+		"transcript": "-"
+	},
+	{
+		"russian": "единообразный",
+		"english": "uniform",
+		"transcript": "-"
+	},
+	{
+		"russian": "крутой",
+		"english": "steep",
+		"transcript": "-"
+	},
+	{
+		"russian": "ручной",
+		"english": "manual",
+		"transcript": "-"
+	},
+	{
+		"russian": "интенсивный",
+		"english": "intensive",
+		"transcript": "-"
+	},
+	{
+		"russian": "мудрый",
+		"english": "wise",
+		"transcript": "-"
+	},
+	{
+		"russian": "релевантный",
+		"english": "relevant",
+		"transcript": "-"
+	},
+	{
+		"russian": "смешной",
+		"english": "funny",
+		"transcript": "-"
+	},
+	{
+		"russian": "удаленный",
+		"english": "distant",
+		"transcript": "-"
+	},
+	{
+		"russian": "золотой",
+		"english": "golden",
+		"transcript": "-"
+	},
+	{
+		"russian": "рациональный",
+		"english": "rational",
+		"transcript": "-"
+	},
+	{
+		"russian": "творческий",
+		"english": "creative",
+		"transcript": "-"
+	},
+	{
+		"russian": "кислый",
+		"english": "sour",
+		"transcript": "-"
+	},
+	{
+		"russian": "невидимый",
+		"english": "invisible",
+		"transcript": "-"
+	},
+	{
+		"russian": "остаточный",
+		"english": "residual",
+		"transcript": "-"
+	},
+	{
+		"russian": "декоративный",
+		"english": "decorative",
+		"transcript": "-"
+	},
+	{
+		"russian": "плодородный",
+		"english": "fertile",
+		"transcript": "-"
+	},
+	{
+		"russian": "тонкий",
+		"english": "subtle",
+		"transcript": "-"
+	},
+	{
+		"russian": "нетерпеливый",
+		"english": "eager",
+		"transcript": "-"
+	},
+	{
+		"russian": "федеральный",
+		"english": "federal",
+		"transcript": "-"
+	},
+	{
+		"russian": "глупый",
+		"english": "silly",
+		"transcript": "-"
+	},
+	{
+		"russian": "пригородный",
+		"english": "suburban",
+		"transcript": "-"
+	},
+	{
+		"russian": "текущий",
+		"english": "ongoing",
+		"transcript": "-"
+	},
+	{
+		"russian": "так называемый",
+		"english": "so-called",
+		"transcript": "-"
+	},
+	{
+		"russian": "элита",
+		"english": "elite",
+		"transcript": "-"
+	},
+	{
+		"russian": "прекрасный",
+		"english": "lovely",
+		"transcript": "-"
+	},
+	{
+		"russian": "еженедельный",
+		"english": "weekly",
+		"transcript": "-"
+	},
+	{
+		"russian": "средний класс",
+		"english": "middle-class",
+		"transcript": "-"
+	},
+	{
+		"russian": "устаревший",
+		"english": "obsolete",
+		"transcript": "-"
+	},
+	{
+		"russian": "живой",
+		"english": "vivid",
+		"transcript": "-"
+	},
+	{
+		"russian": "редкий",
+		"english": "sparse",
+		"transcript": "-"
+	},
+	{
+		"russian": "дефектный",
+		"english": "flawed",
+		"transcript": "-"
+	},
+	{
+		"russian": "лояльный",
+		"english": "loyal",
+		"transcript": "-"
+	},
+	{
+		"russian": "мелкий",
+		"english": "petty",
+		"transcript": "-"
+	},
+	{
+		"russian": "хитрый",
+		"english": "tricky",
+		"transcript": "-"
+	},
+	{
+		"russian": "мелкий",
+		"english": "shallow",
+		"transcript": "-"
+	},
+	{
+		"russian": "уязвимый",
+		"english": "vulnerable",
+		"transcript": "-"
+	},
+	{
+		"russian": "хрустящий",
+		"english": "crisp",
+		"transcript": "-"
+	},
+	{
+		"russian": "приглушенный",
+		"english": "muted",
+		"transcript": "-"
+	},
+	{
+		"russian": "маргинальный",
+		"english": "marginal",
+		"transcript": "-"
+	},
+	{
+		"russian": "целостный",
+		"english": "holistic",
+		"transcript": "-"
+	},
+	{
+		"russian": "глубокий",
+		"english": "profound",
+		"transcript": "-"
+	},
+	{
+		"russian": "неотъемлемый",
+		"english": "integral",
+		"transcript": "-"
+	},
+	{
+		"russian": "окружающий",
+		"english": "ambient",
+		"transcript": "-"
+	},
+	{
+		"russian": "строгий",
+		"english": "stern",
+		"transcript": "-"
+	},
+	{
+		"russian": "яростный",
+		"english": "stark",
+		"transcript": "-"
+	},
+	{
+		"russian": "торжественный",
+		"english": "ceremonial",
+		"transcript": "-"
+	},
+	{
+		"russian": "блестящий",
+		"english": "shiny",
+		"transcript": "-"
+	},
+	{
+		"russian": "непрозрачный",
+		"english": "opaque",
+		"transcript": "-"
+	},
+	{
+		"russian": "робкий",
+		"english": "timid",
+		"transcript": "-"
+	},
+	{
+		"russian": "крепкий",
+		"english": "robust",
+		"transcript": "-"
+	},
+	{
+		"russian": "морозный",
+		"english": "frosty",
+		"transcript": "-"
+	},
+	{
+		"russian": "блестящий",
+		"english": "gleaming",
+		"transcript": "-"
+	},
+	{
+		"russian": "определенный",
+		"english": "definite",
+		"transcript": "-"
+	},
+	{
+		"russian": "пустой",
+		"english": "hollow",
+		"transcript": "-"
+	},
+	{
+		"russian": "душный",
+		"english": "stuffy",
+		"transcript": "-"
+	},
+	{
+		"russian": "повседневный",
+		"english": "mundane",
+		"transcript": "-"
+	},
+	{
+		"russian": "размытый",
+		"english": "blurry",
+		"transcript": "-"
+	},
+	{
+		"russian": "мрачный",
+		"english": "gloomy",
+		"transcript": "-"
+	},
+	{
+		"russian": "перпендикулярный",
+		"english": "perpendicular",
+		"transcript": "-"
+	},
+	{
+		"russian": "наверху",
+		"english": "overhead",
+		"transcript": "-"
+	},
+	{
+		"russian": "оптимальный",
+		"english": "optimal",
+		"transcript": "-"
+	},
+	{
+		"russian": "стройный",
+		"english": "slender",
+		"transcript": "-"
+	},
+	{
+		"russian": "изящный",
+		"english": "nifty",
+		"transcript": "-"
+	},
+	{
+		"russian": "бурный",
+		"english": "turbulent",
+		"transcript": "-"
+	},
+	{
+		"russian": "тупой",
+		"english": "blunt",
+		"transcript": "-"
+	},
+	{
+		"russian": "абсолютный",
+		"english": "sheer",
+		"transcript": "-"
+	},
+	{
+		"russian": "вертикальный",
+		"english": "upright",
+		"transcript": "-"
+	},
+	{
+		"russian": "звездный",
+		"english": "stellar",
+		"transcript": "-"
+	},
+	{
+		"russian": "грубый",
+		"english": "coarse",
+		"transcript": "-"
+	},
+	{
+		"russian": "полезный",
+		"english": "wholesome",
+		"transcript": "-"
+	},
+	{
+		"russian": "поспешный",
+		"english": "hasty",
+		"transcript": "-"
+	},
+	{
+		"russian": "бархатный",
+		"english": "velvet",
+		"transcript": "-"
+	},
+	{
+		"russian": "жесткий",
+		"english": "harsh",
+		"transcript": "-"
+	},
+	{
+		"russian": "светящийся",
+		"english": "luminous",
+		"transcript": "-"
+	},
+	{
+		"russian": "плотный",
+		"english": "dense",
+		"transcript": "-"
+	},
+	{
+		"russian": "кружащийся",
+		"english": "swirling",
+		"transcript": "-"
+	},
+	{
+		"russian": "неуклюжий",
+		"english": "clumsy",
+		"transcript": "-"
+	},
+	{
+		"russian": "тайный",
+		"english": "arcane",
+		"transcript": "-"
+	},
+	{
+		"russian": "влажный",
+		"english": "humid",
+		"transcript": "-"
+	},
+	{
+		"russian": "гладкий",
+		"english": "sleek",
+		"transcript": "-"
+	},
+	{
+		"russian": "мелкозернистый",
+		"english": "gritty",
+		"transcript": "-"
+	},
+	{
+		"russian": "пухлый",
+		"english": "plump",
+		"transcript": "-"
+	},
+	{
+		"russian": "аэродинамический",
+		"english": "streamlined",
+		"transcript": "-"
+	},
+	{
+		"russian": "тактильный",
+		"english": "tactile",
+		"transcript": "-"
+	},
+	{
+		"russian": "радостный",
+		"english": "gleeful",
+		"transcript": "-"
+	},
+	{
+		"russian": "пронзительный",
+		"english": "piercing",
+		"transcript": "-"
+	},
+	{
+		"russian": "разбавленный",
+		"english": "diluted",
+		"transcript": "-"
+	},
+	{
+		"russian": "непорочный",
+		"english": "pristine",
+		"transcript": "-"
+	},
+	{
+		"russian": "зазубренный",
+		"english": "jagged",
+		"transcript": "-"
+	},
+	{
+		"russian": "теплота",
+		"english": "warmth",
+		"transcript": "-"
+	},
+	{
+		"russian": "ослепительный",
+		"english": "dazzling",
+		"transcript": "-"
+	},
+	{
+		"russian": "ощутимый",
+		"english": "tangible",
+		"transcript": "-"
+	}
+]

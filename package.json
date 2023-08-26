@@ -1,0 +1,58 @@
+{
+	"name": "learn-words-app",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "docker-compose -f docker-compose.prod.yml build --no-cache && docker-compose -f docker-compose.prod.yml up",
+		"dev": "docker-compose -f docker-compose.dev.yml up --build",
+		"docker-cleanup": "docker rmi $(docker images -f \"dangling=true\" -q)",
+		"eslint": "eslint \"{client,src}/**/*.{js,jsx,ts,tsx}\" --cache --fix",
+		"prettier": "prettier \"{client,src}/**/*.{ts,js,tsx,css,scss}\" --write",
+		"server": "nodemon",
+		"build": "tsc",
+		"postbuild": "ncp src/db dist/src/db"
+	},
+	"keywords": [
+		"learn",
+		"words",
+		"education",
+		"language"
+	],
+	"author": "Sergei Korovkin",
+	"license": "ISC",
+	"husky": {
+		"hooks": {
+			"pre-commit": "lint-staged"
+		}
+	},
+	"dependencies": {
+		"bcryptjs": "^2.4.3",
+		"config": "^3.3.7",
+		"express": "^4.18.1",
+		"express-validator": "^6.14.2",
+		"jsonwebtoken": "^8.5.1",
+		"mongoose": "^6.5.3"
+	},
+	"devDependencies": {
+		"@types/bcrypt": "^5.0.0",
+		"@types/bcryptjs": "^2.4.2",
+		"@types/config": "^3.3.0",
+		"@types/express": "^4.17.13",
+		"@types/jsonwebtoken": "^8.5.9",
+		"@types/node": "^18.15.13",
+		"@typescript-eslint/eslint-plugin": "^6.4.1",
+		"@typescript-eslint/parser": "^6.4.1",
+		"eslint": "^8.47.0",
+		"eslint-config-prettier": "^9.0.0",
+		"eslint-config-react-app": "^7.0.1",
+		"eslint-plugin-prettier": "^5.0.0",
+		"husky": "^8.0.1",
+		"ncp": "^2.0.0",
+		"nodemon": "^3.0.1",
+		"prettier": "^3.0.2",
+		"ts-node": "^10.9.1",
+		"typescript": "^4.8.2"
+	}
+}
